@@ -9,56 +9,39 @@ This wiki aim at developing a simple, but effective guide on how to farm meal wo
 
 # **Material and methods**
 
-## **Boxes**
+## **Bins**
 ### Material			
-* Wood	
-* Plastic
+Meal worms can be raised at wood or plastic bins. Each material has its advantages and disadvantages, but it is nearly consensual that the use of plastic bins is better given their durability, light weight and impermeability. Wood bins can also be more susceptible to the proliferation of fungi and bacteria.
 
 ### **Dimensions**
-* Width		
-* Length		
-* Depth	
+Meal worms are easily adapted being able to thrive in bins from almost every size.
 
 ### **Aeration**
-* Holes					
-* Quantity				
-* Diameter
-* Location (sideways or top)
+It is important to allow air circulation to the meal worms' bins. Holes can be made on the sides and/or the top of the bins. Holes do not need to be wide, in fact they should be smaller than the larvae diameter.
 
 ## **Bags**
-* Material
-* Plastic
-* Fabric	
-
-###  **Type**
-* Mesh (X mm)		
-* Solid
+The use of [bags on the meal worm farming has been debated recently] (http://www.openbugfarm.com/forum.html#/discussion/46/ultra-cheap-mealworm-production) and soon some tests will be made and the results will be incorporated in this guide.
 
 ## **Substrate**
-* Carrot
-* Corn
-* Corn flour
-* Oat bran
-* Oat grain
-* Peanut
-* Potato
-* Powered milk
-* Rye bran
-* Rye flour
-* Rye grain
-* Sawdust
-* Soy flour
-* Soy grain
-* Wheat bran
-* Wheat grain
-* Wheat flour
+The most common items include carrot, corn (grain and flour), oat (bran and grain), peanut, potato, powered milk, rye (bran, flour and grain), sawdust, soy (flour and grain) and wheat (bran, grain and flour). 
+Several combinations of ingredients are successful used to raise meal worms, and they can vary according to the availability and price.
 
 ### **Other items**
-* Egg cases	
-* Toilet paper rolls
-
+Some farmers opt to put egg cases or toilet paper rolls inside meal worms' habitats, given that they often seek for these items when in captivity. Notwithstanding, meal worm larvae often makes holes at the cardboard, 
+which may contain traces of chemicals that ultimately could harm meal worms and their consumers.
+ 
 ### **Depth**
 * From X to Y cm	
+
+
+# **Farming**
+
+## **Starting the meal worm farm**
+Mix the items of the substrate and put on the habitat (bin or bag).
+
+Add the egg cases and/or toilet paper rolls.
+
+Add the mealworms.
 
 ## **Mealworm density**
 
@@ -68,15 +51,6 @@ From X to Y individuals per cm2
 From X to Y individuals per cm2
 ### Beetle
 From X to Y individuals per cm2
-
-# **Methods**
-
-## **Starting the mealworm farm**
-Mix the items of the substrate and put on the habitat (box or bag).
-
-Add the egg cases and/or toilet paper rolls.
-
-Add the mealworms.
 
 ## **Keeping the abiotic conditions**
 ### Temperature
