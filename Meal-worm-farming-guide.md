@@ -64,6 +64,9 @@ From X to Y individuals per cm2
 ### Beetle
 From X to Y individuals per cm2
 
+# **Life cycle**
+![](https://24.media.tumblr.com/f5cbdad627d4e3e21acf71fbc0e5ca8a/tumblr_n0lhcwiQqA1rayucwo1_500.jpg)
+
 # **Methods**
 
 ## **Step 1 - Starting the mealworm farm**
