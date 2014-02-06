@@ -2,7 +2,12 @@
 ![Meal worm adult](https://31.media.tumblr.com/0bc69068b03fac7c616aded8a694c88a/tumblr_n0lftmAXVa1rayucwo1_250.jpg)
 This wiki aim at developing a simple, but effective guide on how to farm meal worms _Tenebrio molitor_.  
 
-# **Materials**
+# **Introduction**
+
+## **Life cycle**
+![](https://24.media.tumblr.com/f5cbdad627d4e3e21acf71fbc0e5ca8a/tumblr_n0lhcwiQqA1rayucwo1_500.jpg)
+
+# **Material and methods**
 
 ## **Boxes**
 ### Material			
@@ -64,22 +69,16 @@ From X to Y individuals per cm2
 ### Beetle
 From X to Y individuals per cm2
 
-# **Life cycle**
-![](https://24.media.tumblr.com/f5cbdad627d4e3e21acf71fbc0e5ca8a/tumblr_n0lhcwiQqA1rayucwo1_500.jpg)
-
 # **Methods**
 
-## **Step 1 - Starting the mealworm farm**
+## **Starting the mealworm farm**
 Mix the items of the substrate and put on the habitat (box or bag).
 
 Add the egg cases and/or toilet paper rolls.
 
 Add the mealworms.
 
-## **Step 2 - Farming procedures**
- 
-
-## **Step 3 - Abiotic conditions**
+## **Keeping the abiotic conditions**
 ### Temperature
 * Minimum
 * Optimal
@@ -92,8 +91,12 @@ Add the mealworms.
 
 ### Light
 * Dark place (do not need sun exposition)
+ 
+## **Farming procedures**
 
-## **Step 4 - Pests**
+## **Harvesting**
+
+## **Pests**
 ### Types of pests
 #### Ants
 ![](https://31.media.tumblr.com/dc706819cb21eab4dc5682a6216aaf29/tumblr_n0h0rqTAjX1rayucwo1_500.png)
