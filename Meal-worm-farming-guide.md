@@ -1,35 +1,34 @@
 # Tenebrio molitor raising guide and options
 
 
-## **Materials**
+# **Materials**
 
-### **Boxes**
+## **Boxes**
 * Material			
-* * Wood	
-* * Plastic
+* Wood	
+* Plastic
 
-### **Dimensions**
+## **Dimensions**
 * Width		
 * Length		
 * Depth	
 
-### **Aeration**
+## **Aeration**
 * Holes					
 * Quantity				
 * Diameter
 * Place
 
-### ** Bags**
+## **Bags**
 * Material
-* * Plastic
-* * Fabric	
+* Plastic
+* Fabric	
 
-* Type
-* * Mesh (X mm)		
-* * Solid
+###  **Type**
+* Mesh (X mm)		
+* Solid
 
-### ** Substrate**
-
+## **Substrate**
 * Carrot
 * Corn
 * Corn flour
@@ -48,21 +47,21 @@
 * Wheat grain
 * Wheat flour
 
-**Other items**
+### **Other items**
 * Egg cases	
 * Toilet paper rolls
 
-**Depth**
+### **Depth**
 * From X to Y cm	
 
-### **Mealworm density**
+## **Mealworm density**
 
-* Larvae
-* * From X to Y individuals per cm2
-* Pupae
-* * From X to Y individuals per cm2
-* Beetle
-* * From X to Y individuals per cm2
+### Larvae
+* From X to Y individuals per cm2
+### Pupae
+* From X to Y individuals per cm2
+### Beetle
+* From X to Y individuals per cm2
 
 
 # **Methods**
