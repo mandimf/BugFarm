@@ -17,5 +17,5 @@ The Open Bug Farm wiki consists of two main parts:
 
 
 ### How can I contribute?
+Meet the community at http://www.openbugfarm.com/forum - everyone is welcome, whatever their background or level of experience.
 
-Join the community at http://www.openbugfarm.com/forum!
