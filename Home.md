@@ -3,6 +3,8 @@
 ## What is Open Bug Farm?
 Open Bug Farm is an Open Source project to design equipment and techniques for use in farming insects for food and feed.
 
+The Open Bug Farm community is made up of individuals around the world who are sharing knowledge about how to raise edible insects.
+
 You can read more at www.openbugfarm.com, and join the community at [our forum](http://www.openbugfarm.com/forum).
 
 Open Bug Farm is a project by [Tiny Farms](http://www.tiny-farms.com).
