@@ -20,7 +20,7 @@ Meal worms are easily adapted being able to thrive in bins from almost every siz
 It is important to allow air circulation to the meal worms' bins. Holes can be made on the sides and/or the top of the bins. Holes do not need to be wide, in fact they should be smaller than the larvae diameter.
 
 ## **Bags**
-The use of [bags on the meal worm farming has been debated recently] (http://www.openbugfarm.com/forum.html#/discussion/46/ultra-cheap-mealworm-production) and soon some tests will be made and the results will be incorporated in this guide.
+The use of and soon some tests will be made and the results will be incorporated in this guide. For more information click [here](http://www.openbugfarm.com/forum.html#/discussion/46/ultra-cheap-mealworm-production).
 
 ## **Substrate**
 The most common items include carrot, corn (grain and flour), oat (bran and grain), peanut, potato, powered milk, rye (bran, flour and grain), sawdust, soy (flour and grain) and wheat (bran, grain and flour). 
@@ -55,13 +55,13 @@ From X to Y individuals per cm2
 ## **Keeping the abiotic conditions**
 ### Temperature
 * Minimum
-* Optimal
-* Maximum
+* Optimal - 25 to 27º C
+* Maximum - 40º C
 
 ### Humidity
-* Minimum
+* Minimum - 13%
 * Optimal
-* Maximum
+* Maximum - 70%
 
 ### Light
 * Dark place (do not need sun exposition)
