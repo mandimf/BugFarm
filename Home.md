@@ -5,10 +5,11 @@ Open Bug Farm is an Open Source project to design equipment and techniques for u
 
 You can read more at www.openbugfarm.com, and join the community at [our forum](http://www.openbugfarm.com/forum).
 
+Open Bug Farm is a project by [Tiny Farms](http://www.tiny-farms.com).
+
 ## What's in this Wiki?
 The Open Bug Farm wiki consists of two main parts:
 
 * Community best practices for raising bugs
 * Documentation for the Open Bug Farm kits
 
-Open Bug Farm is a project by [Tiny Farms](http://www.tiny-farms.com).
