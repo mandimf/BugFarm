@@ -12,8 +12,8 @@ Open Bug Farm is a project by [Tiny Farms](http://www.tiny-farms.com).
 ### What's in this Wiki?
 The Open Bug Farm wiki consists of two main parts:
 
-* Community best practices for raising bugs
-* Documentation for the Open Bug Farm kits
+* Insect species guides
+* Open Bug Farm kit documentation
 
 
 ### How can I contribute?
