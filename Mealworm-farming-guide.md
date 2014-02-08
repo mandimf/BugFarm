@@ -1,4 +1,4 @@
-[[https://31.media.tumblr.com/0bc69068b03fac7c616aded8a694c88a/tumblr_n0lftmAXVa1rayucwo1_250.jpg|align=center|width=70px]]
+[[https://31.media.tumblr.com/0bc69068b03fac7c616aded8a694c88a/tumblr_n0lftmAXVa1rayucwo1_250.jpg|align=left|width=70px|float]]
 
 This is a community-edited guide on how to raise mealworms (_Tenebrio Molitor_) suitable for human consumption.
 
