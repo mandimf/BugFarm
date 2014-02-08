@@ -1,6 +1,6 @@
-# _Tenebrio molitor_ farming guide and options
+# _Tenebrio molitor_ farming guide
 ![Meal worm adult](https://31.media.tumblr.com/0bc69068b03fac7c616aded8a694c88a/tumblr_n0lftmAXVa1rayucwo1_250.jpg)
-This wiki aim at developing a simple, but effective guide on how to farm meal worms _Tenebrio molitor_.  
+This is a community-edited guide on how to raise mealworms (_Tenebrio Molitor_) suitable for human consumption.
 
 # **Introduction**
 
