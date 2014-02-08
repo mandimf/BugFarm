@@ -23,6 +23,19 @@ The life cycle of meal worms can be divided into 4 stages, namely the egg, larva
 ### **Fecundity**
 Each female beetle can lay up to 500 eggs.
 
+Source 1: The female deposits an average of 400-500 eggs that are bean shaped, sticky and
+white. The eggs are 1.7-1.8 mm in length and 0.6-0.7 mm in width. The time of incubation
+is affected by temperature, the optimum being 2 weeks at 25 °C (Ghaly & Alkoaik 2009).
+
+Source 2: 160 eggs/female (Oonincx and de Boer 2012)
+
+Source 3: Beetles lay more eggs when the relative humidity is higher - ideally 70% (55-80% is good)”
+(Exotic Nutrition 2009)
+
+### **Incubation**
+The optimum incubation temperature is 25 ̊C - 27 ̊C, at which the embryonic development
+lasts 4 - 6 days (Larvae of mealworm (Tenebrio molitor L.) as European novel food 2013)
+
 
 # **Material and methods**
 
@@ -78,9 +91,10 @@ From X to Y individuals per cm2
 
 ## **Keeping the abiotic conditions**
 ### Temperature
-* Minimum
+* Minimum - Reported as low as 20º C, Martin et al. (1976) 
 * Optimal - 25 to 27º C
-* Maximum - 40º C
+* Maximum - 40º C - 35º+ reported as "unstable" and 40º resulting in imminent death, Martin et al. (1976) 
+
 
 ### Humidity
 * Minimum - 13%
