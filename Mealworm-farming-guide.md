@@ -1,4 +1,3 @@
-
 This is a community-edited guide on how to raise mealworms (_Tenebrio Molitor_) suitable for human consumption.
 
 [[https://31.media.tumblr.com/0bc69068b03fac7c616aded8a694c88a/tumblr_n0lftmAXVa1rayucwo1_250.jpg|align=left|width=70px]]
@@ -37,6 +36,8 @@ Meal worms are easily adapted being able to thrive in bins from almost every siz
 ### **Aeration**
 It is important to allow air circulation to the meal worms' bins. Holes can be made on the sides and/or the top of the bins. Holes do not need to be wide, in fact they should be smaller than the larvae diameter.
 
+A common practice is to cut or drill fairly large holes in the top or upper sides of the bin (~1" diameter) and then cover the hole with screening (such as standard steel or fiberglass window screen which can be purchased in rolls)
+
 ## **Bags**
 The use of and soon some tests will be made and the results will be incorporated in this guide. For more information click [here](http://forum.openbugfarm.com/index.php?p=/discussion/46/ultra-cheap-mealworm-production).
 
@@ -45,8 +46,9 @@ The most common items include carrot, corn (grain and flour), oat (bran and grai
 Several combinations of ingredients are successful used to raise meal worms, and they can vary according to the availability and price.
 
 ### **Other items**
-Some farmers opt to put egg cases or toilet paper rolls inside meal worms' habitats, given that they often seek for these items when in captivity. Notwithstanding, meal worm larvae often makes holes at the cardboard, 
-which may contain traces of chemicals that ultimately could harm meal worms and their consumers.
+Some farmers opt to put egg cases or toilet paper rolls inside meal worms' habitats, given that they often seek for these items when in captivity. Notwithstanding, meal worm larvae often makes holes at the cardboard, which may contain traces of chemicals that ultimately could harm meal worms and their consumers.
+
+Another practice recommended by some sources ( [http://tnfarchives.nofa.org/?q=article/how-culture-mealworms](http://tnfarchives.nofa.org/?q=article/how-culture-mealworms) and [http://www.sialis.org/raisingmealworms.htm](http://www.sialis.org/raisingmealworms.htm) ) is to lay a piece of burlap over the surface of the bedding to provide a continuous hiding place for the larvae. One must be careful to use untreated burlap - much burlap is treated with pesticides or other chemicals to protect it and it's contents from rot and, naturally, insects. Although this practice may work well on a small scale, it adds to the labor required for cleaning, sorting, harvesting in additional to adding to the material costs of the habitat.
  
 ### **Depth**
 * From X to Y cm	
