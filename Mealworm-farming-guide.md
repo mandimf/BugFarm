@@ -32,7 +32,7 @@ is affected by temperature, the optimum being 2 weeks at 25 °C (Ghaly & Alkoaik
 
 ### **Incubation**
 The optimum incubation temperature is 25 ̊C - 27 ̊C, at which the embryonic development
-lasts 4 - 6 days (Larvae of mealworm (Tenebrio molitor L.) as European novel food 2013)
+lasts 4 - 6 days (Larvae of mealworm (_Tenebrio molitor_ L.) as European novel food 2013)
 
 
 # **Material and methods**
