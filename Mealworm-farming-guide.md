@@ -23,13 +23,11 @@ The life cycle of meal worms can be divided into 4 stages, namely the egg, larva
 ### **Fecundity**
 Each female beetle can lay up to 500 eggs.
 
-Source 1: The female deposits an average of 400-500 eggs that are bean shaped, sticky and
+* Source 1: The female deposits an average of 400-500 eggs that are bean shaped, sticky and
 white. The eggs are 1.7-1.8 mm in length and 0.6-0.7 mm in width. The time of incubation
 is affected by temperature, the optimum being 2 weeks at 25 °C (Ghaly & Alkoaik 2009).
-
-Source 2: 160 eggs/female (Oonincx and de Boer 2012)
-
-Source 3: Beetles lay more eggs when the relative humidity is higher - ideally 70% (55-80% is good)”
+* Source 2: 160 eggs/female (Oonincx and de Boer 2012)
+* Source 3: Beetles lay more eggs when the relative humidity is higher - ideally 70% (55-80% is good)”
 (Exotic Nutrition 2009)
 
 ### **Incubation**
@@ -111,7 +109,8 @@ From X to Y individuals per cm2
 ## **Pests**
 ### Types of pests
 #### Ants
-![](https://31.media.tumblr.com/dc706819cb21eab4dc5682a6216aaf29/tumblr_n0h0rqTAjX1rayucwo1_500.png)
+To avoid ants inside bins use small trays containing water on the foot of bins.
+To get rid of ants already inside the colony, place a small plastic foil with a honey drop to attract ants, let ants come to the foil and then collect the foil with the ants. Repeat the process until all ants vanish.![](https://31.media.tumblr.com/dc706819cb21eab4dc5682a6216aaf29/tumblr_n0h0rqTAjX1rayucwo1_500.png)
 
 #### Bacteria
 #### Birds
