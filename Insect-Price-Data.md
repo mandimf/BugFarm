@@ -11,10 +11,13 @@ Date (dd-mm-yyyy)|Price (USD)|Supplier|Reported By|City|Country|Notes|
 08-02-2014|$9.50 for 1000(large)|[Fluker Farms](http://www.flukerfarms.com)|Andrew|unknown, Louisiana|USA
 08-02-2014|$22.50 for 1000(large) (free shipping)|[Speedy Worms](http://www.http://shop.speedyworm.com/)|Andrew|Alexandria, Minnesota|USA
 09-02-2014|€1.41 for 100 grams|[kreca](http://www.kreca.eu/)|Allan|Ermelo|The Netherlands|The price does not include shipping
+09-02-2014|$27.99 for 1000|[Tasty Worms Nutrition](http://tastyworms.com/insects/live-insects/live-feeder-insects-en/)|Andrew|Lake Mary, Florida|USA|includes "free" next day air shipping
 
 ### Mealworms (dried)
 Date (dd-mm-yyyy)|Price (USD)|Supplier|Reported By|City|Country|Notes|
 -----------------|-----------|--------|-----------|----|-------|-----|
+09-02-2014|$16.99 1lb (16,000 count)|[Tasty Worms Nutrition](http://tastyworms.com/insects/dried-insects/dried-mealworms-en/)|Andrew|Lake Mary, Florida|USA
+09-02-2014|$99.99 11lb (176,000 count)|[Tasty Worms Nutrition](http://tastyworms.com/insects/dried-insects/dried-mealworms-en/)|Andrew|Lake Mary, Florida|USA
 
 ### Mealworms (flour)
 Date (dd-mm-yyyy)|Price (USD)|Supplier|Reported By|City|Country|Notes|
