@@ -13,6 +13,7 @@ Open Bug Farm is a project by [Tiny Farms](http://www.tiny-farms.com).
 The Open Bug Farm wiki consists of a few main parts:
 
 * [[Insect Species Guides]] - community information on raising various species
+* [[Equipment Guides]] - community information on equipment useful for farming
 * [[Insect Price Data]] - current prices for insects as reported by the community
 * [[Open Source Tools and Resources]] - a list of open source tools and resources for the insect farmer/researcher
 * Open Bug Farm kit documentation - official documentation for the Open Bug Farm kits
