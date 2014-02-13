@@ -52,6 +52,10 @@ A common practice is to cut or drill fairly large holes in the top or upper side
 ## **Bags**
 The use of and soon some tests will be made and the results will be incorporated in this guide. For more information click [here](http://forum.openbugfarm.com/index.php?p=/discussion/46/ultra-cheap-mealworm-production).
 
+The bags are tubes of fine mesh (no-see-um rated mosquito mesh) with a strip of nylon webbing (like that used by climbers and slackliners) sewn to one side of the opening, closed at the end into loops that prevent insect escape and provide for easy hanging. The closing method is similar to that used for waterproof bags used by kayakers and rafters, as shown in this illustration:
+
+![mealworm bag habitat closing method](http://www.artichokejalapenodesign.com/AJD-hosted-img/tinyfarms/bag-closing-method-illustration-full.png)
+
 ## **Substrate**
 The most common items include carrot, corn (grain and flour), oat (bran and grain), peanut, potato, powered milk, rye (bran, flour and grain), sawdust, soy (flour and grain) and wheat (bran, grain and flour). 
 Several combinations of ingredients are successful used to raise meal worms, and they can vary according to the availability and price.
