@@ -1,7 +1,7 @@
-### Intro
+## Intro
 Community member [@gringojay](http://forum.openbugfarm.com/index.php?p=/profile/68/gringojay) suggests Christmas lights as a safe and affordable source of heating.
 
-### Description
+## Description
 
 A standard plant propagation tray heat mat puts out 20 watts. It's possible to get close to that ratio of watts per square area using Christmas lights.
 
@@ -17,6 +17,6 @@ Also rope lights, both incandescent & LED can come close to matching that heat m
 
 Furthermore, these type of products can be found that run on various voltages. The 12 volt rope lights would solve off grid operations since a DC charged car battery (or two 6 volt deep cycle batteries) can run them.
 
-### Diagram
+## Diagram
 
-### Suitable products for sale
+## Suitable products for sale
