@@ -1,4 +1,3 @@
-
 **Here is a list for open sources hardware, software and other resources available that may be useful to members of the Open Bug Farm community.**
 
 
@@ -34,3 +33,9 @@ Of particular interest:
 
 This open project, available on Instructables here [http://www.instructables.com/id/10-Smartphone-to-digital-microscope-conversion/](http://www.instructables.com/id/10-Smartphone-to-digital-microscope-conversion/) has plans for an easy to build (~$10) platform that converts your smartphone into a microscope
 (Tiny Farms team has built one of these and it's awesome!)
+
+***
+
+### APDuino
+
+[http://apduino.org/](http://apduino.org/) - An open source platform built to manage controlled environment agriculture like hydroponics and acquaponics using inexpensive Arduino micro-controllers and sensors. The project provides a web-based platform to manage sensor-actuator logic so no real programming experience is necessary! This could be particularly useful for larger scale operations that require more active environmental management and have enough at stake to warrant real-time remote alerts when something's broken or out of balance.
