@@ -33,9 +33,10 @@ Cut holes in the bucket lid and thread the power cables through.
 
 Seat the bucket lid.
 
-Plug in the heater and set the thermostat to slightly higher than your desired environment temperature.
+Plug in the heater, via the surge protector, and set the thermostat to slightly higher than your desired environment temperature.
 
 Leave for several hours for the temperature to settle.
 
 Use the thermometer to determine whether the temperature of the space has reached the desired level. If not, adjust the thermostat accordingly.
 
+Check water levels regularly and refill as required.
