@@ -48,7 +48,19 @@ Use the thermometer to determine whether the temperature of the space has reache
 
 If only the temperature of the water is regulated, the habitat temperature may fluctuate unacceptably based on ambient conditions, and may require recalibration. Ideally, the level of heating should be determined by the temperature of the space being heated rather than the direct temperature of the water in the bucket.
 
-It's possible to use a separate temperature controller for this purpose. set the heater's built-in thermostat to maximum, then wire it via a separate temperature controller with its heat sensor located amongst the insect habitats.
+It is possible to use a separate temperature controller for this purpose. This process involves mains wiring and should only be done by someone with the required competence.
+
+##### Additional equipment
+* Switching temperature controller, e.g.:
+    * http://www.amazon.com/Elitech-All-Purpose-Temperature-Controller-Thermostat/dp/B008KVCPH2
+
+##### Instructions
+
+Set the heater's built-in thermostat to maximum, and connect it to mains power through the temperature controller. Place the temperature controller's thermocouple within the climate controlled area and set to the target temperature.
+
+##### Advanced
+
+While an aquarium heater provides many benefits in safety, simplicity and often an integral thermostat, a separate temperature controller can be used with a simpler and cheaper direct AC heating element. We don't recommend this unless you are qualified to work with mains electricity.
 
 #### Introducing a pump
 
