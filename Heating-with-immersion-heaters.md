@@ -37,6 +37,16 @@ Plug in the heater, via the surge protector, and set the thermostat to slightly 
 
 Leave for several hours for the temperature to settle.
 
-Use the thermometer to determine whether the temperature of the space has reached the desired level. If not, adjust the thermostat accordingly.
+Use the thermometer to determine whether the temperature of the space has reached the desired level. If not, adjust the thermostat accordingly. Recalibrate periodically as ambient temperature changes throughout the year.
 
-Check water levels regularly and refill as required.
+**Check water levels regularly** and refill as required.
+
+### Improving temperature response
+
+If only the temperature of the water is regulated, the habitat temperature may fluctuate unacceptably based on ambient conditions, and may require recalibration. Ideally, the level of heating should be determined by the temperature of the space being heated rather than the direct temperature of the water in the bucket.
+
+It's possible to use a separate temperature controller for this purpose. set the heater's built-in thermostat to maximum, then wire it via a separate temperature controller with its heat sensor located amongst the insect habitats.
+
+### Introducing a pump
+
+Often, the space requiring heating doesn't have room for both insect habitats and the large bucket/heater assembly. In this case, tubing and a pump can be used to move heat from the bucket into the climate controlled space.
