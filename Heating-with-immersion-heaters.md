@@ -44,17 +44,19 @@ Use the thermometer to determine whether the temperature of the space has reache
 
 **Check water levels regularly** and refill as required.
 
-### Improving temperature response
+#### Improving temperature response
 
 If only the temperature of the water is regulated, the habitat temperature may fluctuate unacceptably based on ambient conditions, and may require recalibration. Ideally, the level of heating should be determined by the temperature of the space being heated rather than the direct temperature of the water in the bucket.
 
 It's possible to use a separate temperature controller for this purpose. set the heater's built-in thermostat to maximum, then wire it via a separate temperature controller with its heat sensor located amongst the insect habitats.
 
-### Introducing a pump
+#### Introducing a pump
 
 Often, the space requiring heating doesn't have room for both insect habitats and the large bucket/heater assembly. In this case, tubing and a pump can be used to move heat from the bucket into the climate controlled space.
 
-#### Additional equipment
+A small pump will circulate heated water from the bucket around a closed loop of flexible tubing that makes its way throughout the climate controlled space before returning to the bucket. The bucket will be insulated so that heat is not lost from anywhere except the tubing.
+
+##### Additional equipment
 
 Much of the required equipment can be obtained from a hydroponics supplier. The links here are for illustrative purposes only; we have no experience with this supplier.
 
@@ -65,5 +67,15 @@ Much of the required equipment can be obtained from a hydroponics supplier. The 
     * http://www.htgsupply.com/Product-half-inch-Barbed-Elbow
 * Small pump, capacity dependent on length and layout of tubing, e.g.:
     * http://www.htgsupply.com/Product-160-GPH-Submersible-Pump-for-Hydroponics-Systems
+* Insulation to wrap the bucket; alternately a pre-insulated camping-style "cooler" could be used, e.g.:
+    * http://www.walmart.com/cp/Coolers/5164
 
-#### Instructions
+##### Instructions
+
+The tubing should be laid in a circuit around the area to be heated, taking care not to exceed the vertical feet for which the pump is rated. Fittings should be used to avoid kinks in the tubing that would otherwise constrain flow.
+
+The pump should be submerged in the bucket, connected to short lengths of tubing that terminate in connectors. These connectors should then be joined to the circuit of tubing. This will allow for easy disconnection and drainage of the system if required. Holes should be cut in the lid to permit the pump's tubing and wiring to pass.
+
+The entire bucket should be wrapped with an insulating material, for example bubble wrap or fiberglass. Alternately, an insulated camping-style cooler can be used in place of the bucket (although it may be difficult to drill holes for tubing and wiring).
+
+The pump should be connected to the surge protector and powered on continuously, keeping water flowing throughout the system.
