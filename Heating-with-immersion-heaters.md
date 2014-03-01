@@ -12,16 +12,19 @@ Heat mats and lamps, designed for use with glass terraria, can be dangerous - th
 
 Indirect heat is safest for home use. Using a cheap aquarium immersion heater and a robust water container, it is possible to create an indirect heat source ideal for heating a small space used as an insect habitat.
 
-### Basic components
+#### Basic components
 
-* Plastic bucket, e.g. http://www.homedepot.com/p/Homer-Bucket-5-Gal-Orange-Bucket-05GLHD2/100087613
-* Tight-fitting lid, e.g. http://www.homedepot.com/p/Argee-Homer-5-gal-Bucket-Lid-RG5503/100037401
-* Aquarium immersion heater with integral thermostat, e.g. http://www.amazon.com/ViaAqua-50-Watt-Submersible-Built-In-Thermostat/dp/B005440HLO/ref=sr_1_1?s=pet-supplies&ie=UTF8&qid=1393521641&sr=1-1
+* Plastic bucket, e.g.:
+    * http://www.homedepot.com/p/Homer-Bucket-5-Gal-Orange-Bucket-05GLHD2/100087613
+* Tight-fitting lid, e.g.:
+    * http://www.homedepot.com/p/Argee-Homer-5-gal-Bucket-Lid-RG5503/100037401
+* Aquarium immersion heater with integral thermostat, e.g.:
+    * http://www.amazon.com/ViaAqua-50-Watt-Submersible-Built-In-Thermostat/dp/B005440HLO/ref=sr_1_1?s=pet-supplies&ie=UTF8&qid=1393521641&sr=1-1
 * Safety surge protector/circuit breaker
 * Thermometer
 * Bleach
 
-### Instructions
+#### Instructions
 
 Heating will work best in an enclosed space - a cupboard/closet, or a hydroponic grow tent.
 
@@ -50,3 +53,17 @@ It's possible to use a separate temperature controller for this purpose. set the
 ### Introducing a pump
 
 Often, the space requiring heating doesn't have room for both insect habitats and the large bucket/heater assembly. In this case, tubing and a pump can be used to move heat from the bucket into the climate controlled space.
+
+#### Additional equipment
+
+Much of the required equipment can be obtained from a hydroponics supplier. The links here are for illustrative purposes only; we have no experience with this supplier.
+
+* Flexible plastic tubing, such as 1/2" or 1/4" black poly tubing, e.g.:
+    * http://www.htgsupply.com/Product-quarter-in-Black-Poly-Tubing
+* Connectors and fittings, e.g.:
+    * http://www.htgsupply.com/Product-one-half-inch-Double-Barbed-Connector
+    * http://www.htgsupply.com/Product-half-inch-Barbed-Elbow
+* Small pump, capacity dependent on length and layout of tubing, e.g.:
+    * http://www.htgsupply.com/Product-160-GPH-Submersible-Pump-for-Hydroponics-Systems
+
+#### Instructions
