@@ -116,5 +116,22 @@
             </ul>
         </td>
     </tr>
+
+    <tr>
+        <td>14</td>
+        <td>Laying</td>
+        <td>
+            <ul>
+                <li>80F</li>
+                <li>70% humidity</li>
+            </ul>
+        </td>
+        <td></td>
+        <td>
+            <ul>
+                <li>Replenish food and water</li>
+            </ul>
+        </td>
+    </tr>
 </tbody>
 </table>
