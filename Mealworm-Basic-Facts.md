@@ -1,3 +1,5 @@
+[[https://31.media.tumblr.com/0bc69068b03fac7c616aded8a694c88a/tumblr_n0lftmAXVa1rayucwo1_250.jpg|align=left|width=70px]]
+
 ## **Life cycle**
 ![](https://24.media.tumblr.com/f5cbdad627d4e3e21acf71fbc0e5ca8a/tumblr_n0lhcwiQqA1rayucwo1_500.jpg)
 
