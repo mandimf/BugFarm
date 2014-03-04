@@ -98,5 +98,22 @@
             </ul>
         </td>
     </tr>
+
+    <tr>
+        <td>12</td>
+        <td>Emergence</td>
+        <td>
+            <ul>
+                <li>80F</li>
+                <li>70% humidity</li>
+            </ul>
+        </td>
+        <td></td>
+        <td>
+            <ul>
+                <li>Replenish food and water</li>
+            </ul>
+        </td>
+    </tr>
 </tbody>
 </table>
