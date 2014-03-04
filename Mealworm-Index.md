@@ -4,7 +4,9 @@ This is a community-edited source of information on mealworms (_Tenebrio molitor
 
 ## Sections
 
-[[Mealworm Basic Facts]]
+* [[Mealworm Basic Facts]]
+* [[Mealworm farm schedule]]
+* [[Mealworm methods and materials]]
 
 # **Material and methods**
 
