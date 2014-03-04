@@ -71,8 +71,13 @@
         </td>
         <td>
             <ul>
-                <li>Move to final substrate, if not already there</li>
-                <li>Renew water source if depleted</li>
+                <li>Harvest majority of population</li>
+                <li>Transfer remaining to breeding container</li>
+            </ul>
+        </td>
+        <td>
+            <ul>
+                <li>Provide food and water</li>
             </ul>
         </td>
     </tr>
