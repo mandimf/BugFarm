@@ -67,6 +67,7 @@
             <ul>
                 <li>80F</li>
                 <li>70% humidity</li>
+                <li>Breeding container</li>
             </ul>
         </td>
         <td>
