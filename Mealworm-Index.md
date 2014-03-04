@@ -2,7 +2,7 @@ This is a community-edited source of information on mealworms (_Tenebrio molitor
 
 [[https://31.media.tumblr.com/0bc69068b03fac7c616aded8a694c88a/tumblr_n0lftmAXVa1rayucwo1_250.jpg|align=left|width=70px]]
 
-## Sections
+### Sections
 
 * [[Mealworm Basic Facts]]
 * [[Mealworm Optimal Conditions]]
