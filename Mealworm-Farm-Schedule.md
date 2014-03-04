@@ -77,7 +77,24 @@
         </td>
         <td>
             <ul>
-                <li>Provide food and water</li>
+                <li>Replenish food and water</li>
+            </ul>
+        </td>
+    </tr>
+
+    <tr>
+        <td>10</td>
+        <td>Pupation</td>
+        <td>
+            <ul>
+                <li>80F</li>
+                <li>70% humidity</li>
+            </ul>
+        </td>
+        <td></td>
+        <td>
+            <ul>
+                <li>Replenish food and water</li>
             </ul>
         </td>
     </tr>
