@@ -35,5 +35,7 @@ Maintain temperatures around 80-86 F and humidity close to 80%. As the worms gro
 
 If during the course of their development, the worms consume all or most of their bedding, replace with additional bedding. The worms require the bedding as food, and as a medium to move around without too much direct contact with each other.
 
+
+###Harvest
 The worms should reach a harvestable size after about 35 days in the Mealworm Grow Bag. At this point the worms can be sorted from any remaining bedding and the exoskeleton skins that they have shed throughout their growth. Keep about 200 of your newly harvested worms and move to a Breeder Bin to seed your next generation. Your harvested worms may be euthanized and stored in the freezer, or fed live to pets and chickens. Mealworms may also be kept dormant around 40 degrees Fahrenheit (about the temperature in your refrigerator), and they should be removed from the fridge about once a week, allowed to warm up, and then fed with bran and moisture source (carrot/potato/apple..) for about 12 hours before returning to the fridge. This tactic may also be effective for seeding your initial 3 generations from a single order of mealworms, but it should be noted that prolonged dormancy due to cold may also significantly delay pupation even after returning to normal temperatures.
 
