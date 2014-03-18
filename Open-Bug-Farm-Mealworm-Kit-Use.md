@@ -1,6 +1,6 @@
 # The Mealworm Kit
 
-### This page contains description of the physical apparatus and intended usage of the Open Bug Farm Mealworm Kit (v1.0 Beta), available for [purchase](http://www.openbugfarm.com/store) or as a DIY project. 
+### This page contains description of the physical apparatus and intended usage of the Open Bug Farm Mealworm Kit (v1.0 Beta), available for [purchase](http://www.openbugfarm.com/store/c1/Featured_Products.html) or as a DIY project. 
 
 ## Description
 
