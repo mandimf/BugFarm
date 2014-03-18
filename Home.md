@@ -9,7 +9,7 @@ You can read more at www.openbugfarm.com, and join the community at [our forum](
 
 Open Bug Farm is a project by [Tiny Farms](http://www.tiny-farms.com).
 
-### What's in this Wiki?
+### Sections
 The Open Bug Farm wiki consists of a few main parts:
 
 * [[Insect Species Guides]] - community information on raising various species
