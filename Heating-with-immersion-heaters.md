@@ -72,8 +72,9 @@ A small pump will circulate heated water from the bucket around a closed loop of
 
 Much of the required equipment can be obtained from a hydroponics supplier. The links here are for illustrative purposes only; we have no experience with this supplier.
 
-* Flexible plastic tubing, such as 1/2" or 1/4" black poly tubing, e.g.:
+* Flexible plastic tubing, such as 1/2" or 1/4" black poly tubing, or airline tubing e.g.:
     * http://www.htgsupply.com/Product-quarter-in-Black-Poly-Tubing
+    * http://www.drsfostersmith.com/fish-supplies/aquarium-air-pump/aquarium-airline-tubing-valves/ps/c/3578/3669/8046
 * Connectors and fittings, e.g.:
     * http://www.htgsupply.com/Product-one-half-inch-Double-Barbed-Connector
     * http://www.htgsupply.com/Product-half-inch-Barbed-Elbow
@@ -88,6 +89,11 @@ The tubing should be laid in a circuit around the area to be heated, taking care
 
 The pump should be submerged in the bucket, connected to short lengths of tubing that terminate in connectors. These connectors should then be joined to the circuit of tubing. This will allow for easy disconnection and drainage of the system if required. Holes should be cut in the lid to permit the pump's tubing and wiring to pass.
 
-The entire bucket should be wrapped with an insulating material, for example bubble wrap or fiberglass. Alternately, an insulated camping-style cooler can be used in place of the bucket (although it may be difficult to drill holes for tubing and wiring).
+The entire bucket should be wrapped with an insulating material, for example bubble wrap or fiberglass or Reflectix [http://www.homedepot.com/b/Reflectix/N-5yc1vZ19n](http://www.homedepot.com/b/Reflectix/N-5yc1vZ19n) . Alternately, an insulated camping-style cooler can be used in place of the bucket (although it may be difficult to drill holes for tubing and wiring).
 
 The pump should be connected to the surge protector and powered on continuously, keeping water flowing throughout the system.
+
+
+##### Example Implementation
+
+An excellent example of implementing this system is well documented on the Open Bug Farm forum here [http://www.openbugfarm.com/forum.html#/discussion/91/my-attempt-guide-at-radiant-heating-with-an-immersion-heater-and-pump](http://www.openbugfarm.com/forum.html#/discussion/91/my-attempt-guide-at-radiant-heating-with-an-immersion-heater-and-pump)
