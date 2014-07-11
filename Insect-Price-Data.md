@@ -12,6 +12,9 @@ Date (dd-mm-yyyy)|Price (USD)|Supplier|Reported By|City|Country|Notes|
 08-02-2014|$22.50 for 1000(large) (free shipping)|[Speedy Worms](http://www.http://shop.speedyworm.com/)|Andrew|Alexandria, Minnesota|USA
 09-02-2014|€1.41 for 100 grams|[kreca](http://www.kreca.eu/)|Allan|Ermelo|The Netherlands|The price does not include shipping
 09-02-2014|$27.99 for 1000|[Tasty Worms Nutrition](http://tastyworms.com/insects/live-insects/live-feeder-insects-en/)|Andrew|Lake Mary, Florida|USA|includes "free" next day air shipping
+07-07-2014|AUD 12.50 for 100g|Bugs'N'Things (brand) at Pet Magic|calytrix-wa|Perth|Australia
+07-07-2014|AUD 21.00 for 200g|Bugs'N'Things (brand) at Pet Magic|calytrix-wa|Perth|Australia
+
 
 ### Mealworms (dried)
 Date (dd-mm-yyyy)|Price (USD)|Supplier|Reported By|City|Country|Notes|
@@ -29,6 +32,7 @@ Date (dd-mm-yyyy)|Price (USD)|Supplier|Reported By|City|Country|Notes|
 Date (dd-mm-yyyy)|Price (USD)|Supplier|Reported By|City|Country|Notes|
 -----------------|-----------|--------|-----------|----|-------|-----|
 09-02-2014|€1.36 per cup|[kreca](http://www.kreca.eu/)|Allan|Ermelo|The Netherlands|The price does not include shipping
+11-07-2014|AUD 7.95/box|Bugs'N'Things (brand) at Pet Magic|calytrix-wa|Perth|Australia|box contains 120 "tiny", 75 "small", 50 "medium" OR 30 "large".
 
 ### Crickets (dried)
 Date (dd-mm-yyyy)|Price (USD)|Supplier|Reported By|City|Country|Notes|
