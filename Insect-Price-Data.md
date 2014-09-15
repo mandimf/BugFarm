@@ -14,6 +14,7 @@ Date (dd-mm-yyyy)|Price (USD)|Supplier|Reported By|City|Country|Notes|
 09-02-2014|$27.99 for 1000|[Tasty Worms Nutrition](http://tastyworms.com/insects/live-insects/live-feeder-insects-en/)|Andrew|Lake Mary, Florida|USA|includes "free" next day air shipping
 07-07-2014|AUD 12.50 for 100g|Bugs'N'Things (brand) at Pet Magic|calytrix-wa|Perth|Australia
 07-07-2014|AUD 21.00 for 200g|Bugs'N'Things (brand) at Pet Magic|calytrix-wa|Perth|Australia
+15-09-2014|EUR 3 for 100 grams|feeders.gr| Greece
 
 
 ### Mealworms (dried)
