@@ -6,3 +6,8 @@
 Do insects count as "Generally Recognised as Safe"? 
 
 http://www.fda.gov/Food/IngredientsPackagingLabeling/GRAS/
+
+### Belgium 
+10 Insects approved for human consumption in Belgium terrority (available in English, Dutch and French) 
+
+http://www.favv-afsca.fgov.be/foodstuffs/insects/ 
