@@ -2,9 +2,9 @@ These are illustrated instructions for sewing your own Mealworm Grow bag with th
 
 Cut and marked mesh - 1x
 
-31.5" strip twill tape - 2x
+31.5" (80 cm) strip twill tape - 2x
 
-5" strip twill tape - 4x
+5" (13 cm) strip twill tape - 4x
 
 
 
