@@ -4,4 +4,6 @@ This page contains official documentation for the Open Bug Farm project, additio
 
 * [[Mealworm Grow Bag, 1kg output Sewing Instructions]]
 
+* [[Instructions Frame Mealworm Kit]]
+
 * [[License]]
