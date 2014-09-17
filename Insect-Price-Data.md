@@ -13,7 +13,7 @@ Date (dd-mm-yyyy)|Price (USD)|Supplier|Reported By|City|Country|Notes|
 09-02-2014|€1.41 for 100 grams|[kreca](http://www.kreca.eu/)|Allan|Ermelo|The Netherlands|The price does not include shipping
 09-02-2014|$27.99 for 1000|[Tasty Worms Nutrition](http://tastyworms.com/insects/live-insects/live-feeder-insects-en/)|Andrew|Lake Mary, Florida|USA|includes "free" next day air shipping
 07-07-2014|AUD 12.50 for 100g|Bugs'N'Things (brand) at Pet Magic|calytrix-wa|Perth|Australia
-07-07-2014|AUD 21.00 for 200g|Bugs'N'Things (brand) at Pet Magic|calytrix-wa|Perth|Australia
+07-07-2014|AUD 21.00 for 2$g|Bugs'N'Things (brand) at Pet Magic|calytrix-wa|Perth|Australia
 15-09-2014|EUR 3 for 100 grams|feeders.gr| Greece
 
 
@@ -22,6 +22,7 @@ Date (dd-mm-yyyy)|Price (USD)|Supplier|Reported By|City|Country|Notes|
 -----------------|-----------|--------|-----------|----|-------|-----|
 09-02-2014|$16.99 1lb (16,000 count)|[Tasty Worms Nutrition](http://tastyworms.com/insects/dried-insects/dried-mealworms-en/)|Andrew|Lake Mary, Florida|USA
 09-02-2014|$99.99 11lb (176,000 count)|[Tasty Worms Nutrition](http://tastyworms.com/insects/dried-insects/dried-mealworms-en/)|Andrew|Lake Mary, Florida|USA
+18-09-2014|€4.95 50gr. ($6.35)|[Delibugs](http://www.delibugs.nl/Webwinkel-Product-66819971/DeliBugs-Tribolos-eetbare-meelwormen.html)|jbaars|Lelystad|The Netherlands
 
 ### Mealworms (flour)
 Date (dd-mm-yyyy)|Price (USD)|Supplier|Reported By|City|Country|Notes|
