@@ -1,4 +1,4 @@
-The equipment guide shows general farming equipment needed, instructions on how to use the Open Bug Farm Mealworm Kit (available [here](http://www.openbugfarm.com/store/c1/Featured_Products.html)) and, if you want to build your own Mealworm Kit, complete instructions on how to make the kit. 
+The equipment guide shows information on general farming equipment, instructions how to use the Open Bug Farm Mealworm Kit (available [here](http://www.openbugfarm.com/store/c1/Featured_Products.html)) and, if you want to make your own Mealworm Kit, complete guidelines on how to make the kit. 
 
 #### General farming equipment
 * [[Heating with Christmas lights]]
