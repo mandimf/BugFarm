@@ -8,7 +8,7 @@ Meal worms are easily adapted being able to thrive in bins from almost every siz
 ### **Aeration**
 It is important to allow air circulation to the meal worms' bins. Holes can be made on the sides and/or the top of the bins. Holes do not need to be wide, in fact they should be smaller than the larvae diameter.
 
-A common practice is to cut or drill fairly large holes in the top or upper sides of the bin (~1" diameter) and then cover the hole with screening (such as standard steel or fiberglass window screen which can be purchased in rolls)
+A common practice is to cut or drill fairly large holes in the top or upper sides of the bin (~1"/2.5cm diameter) and then cover the hole with screening (such as standard steel or fiberglass window screen which can be purchased in rolls)
 
 ## **Bags**
 The use of and soon some tests will be made and the results will be incorporated in this guide. For more information click [here](http://forum.openbugfarm.com/index.php?p=/discussion/46/ultra-cheap-mealworm-production).
