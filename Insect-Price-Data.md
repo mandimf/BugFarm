@@ -24,6 +24,8 @@ Date (dd-mm-yyyy)|Price (USD)|Supplier|Reported By|City|Country|Notes|
 09-02-2014|$99.99 11lb (176,000 count)|[Tasty Worms Nutrition](http://tastyworms.com/insects/dried-insects/dried-mealworms-en/)|Andrew|Lake Mary, Florida|USA
 18-09-2014|€4.95 50gr. ($6.35)|[Delibugs](http://www.delibugs.nl/Webwinkel-Product-66819971/DeliBugs-Tribolos-eetbare-meelwormen.html)|JBaars|Lelystad|The Netherlands
 18-09-2014|€8.50 50 gr. ($10.90)|[Insectable New Food](http://www.insectable.nl/eetbare-insecten-tenebrios-meelwormen)|JBaars|Herten|The Netherlands
+18-09-2014|€9,99 35 gr. ($12,80)|[Snack-Insects](http://wuestengarnele.de/shop/article_0005-T/ESSBARE-INSEKTEN%3A-MEHLW%C3%9CRMER---Inhalt-35-Gramm.html?sessid=aNSULjSfRpAOOZ7swqmv0Al79wlruu8bhAvqpc2JTzPOi5yXJ6yziDfe5oRb1TW8&shop_param=cid%3D2%26aid%3D0005-T%26)|JBaars|Witzeeze|Germany
+
 
 ### Mealworms (flour)
 Date (dd-mm-yyyy)|Price (USD)|Supplier|Reported By|City|Country|Notes|
