@@ -1,5 +1,4 @@
-* "Equipment Guides" 
-
-    -"Heating with Christmas lights"
+* [[Equipment Guides]]
+    * [[Heating with Christmas lights]]
     
 
