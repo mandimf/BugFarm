@@ -2,12 +2,11 @@
 
 ***
 
-#### [[Mealworm (Tenebrio molitor)|Mealworm Index]]
+* **[[Mealworm (Tenebrio molitor)|Mealworm Index]]**
 
 _This page contains information about raising mealworms for human consumption_
-***
 
-#### [[Cricket (Acheta domesticus)|Cricket Index]]
+* **[[Cricket (Acheta domesticus)|Cricket Index]]**
 
 _This page contains information about raising crickets for human consumption **(information is coming)**_
 
