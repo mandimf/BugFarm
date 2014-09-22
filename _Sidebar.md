@@ -1,5 +1,4 @@
 * **[[Home]]**
-
 * **[[Insect Species Guides]]**
     * [[Mealworm (Tenebrio molitor)|Mealworm Index]]
     * [[Cricket (Acheta domesticus)|Cricket Index]]
