@@ -9,9 +9,12 @@
 
 ## Open Bug Farm Wiki
 
-The wiki is an online database with information on everything related to farm insects for food and feed. 
+This wiki is an online database with information on everything related to farm insects for food and feed. 
 
 The information is made available by the Open Bug Farm community: individuals around the world who are sharing knowledge about how to raise edible insects.
+
+
+
 
 ### Sections
 The Open Bug Farm wiki consists of a few main parts:
