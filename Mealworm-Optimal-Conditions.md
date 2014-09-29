@@ -1,4 +1,4 @@
-[[Home]] **/** [[Insect Species Guides]] **/** [[Mealworm Index]] **/** [[Mealworm Optimal Conditions]]
+[[Home]] **/** [[Insect Species Guides]] **/** [[Mealworm Index]]
 
 ## **Mealworm density**
 
