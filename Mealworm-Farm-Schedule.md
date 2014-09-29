@@ -1,4 +1,4 @@
-[[Home]] **/** [[Insect Species Guides]] **/** [[Mealworm Index]] **/** [[Mealworm Farm Schedule]]
+[[Home]] **/** [[Insect Species Guides]] **/** [[Mealworm Index]]
 
 **Work in progress, do not rely on for information! - Dan**
 
