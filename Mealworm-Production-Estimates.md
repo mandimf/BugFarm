@@ -1,4 +1,4 @@
-[[Home]] **/** [[Insect Species Guides]] **/** [[Mealworm Index]] **/** [[Mealworm Production Estimates]]
+[[Home]] **/** [[Insect Species Guides]] **/** [[Mealworm Index]] 
 
 How big does a farm have to be to produce a certain volume of mealworms?
 
