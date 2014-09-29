@@ -1,4 +1,4 @@
-[[Home]] **/** [[Insect Species Guides]] **/** [[Mealworm Index]] **/** [[Mealworm Pest Management]]
+[[Home]] **/** [[Insect Species Guides]] **/** [[Mealworm Index]] 
 
 ## **Pests**
 ### Types of pests
