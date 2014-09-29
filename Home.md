@@ -25,5 +25,5 @@ The Open Bug Farm wiki consists of a few main parts:
 * **[[Articles]]** - Articles and documents related to edible insects
 
 
-#### How can I contribute?
+### How can I contribute?
 Meet the community at **http://www.openbugfarm.com/forum** and share your knowledge or questions. Everyone is welcome, whatever your background or level of experience.
