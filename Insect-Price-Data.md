@@ -1,3 +1,5 @@
+[[Home]]
+
 Note: The pricing information below has been gathered by the Open Bug Farm community and its accuracy is not guaranteed.
 
 ## Mealworms
