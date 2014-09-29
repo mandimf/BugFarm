@@ -1,9 +1,6 @@
 #### Welcome to the Open Bug Farm Wiki!
 
 
-
-
-
 ***
 
 
@@ -20,14 +17,13 @@ The information is made available by the Open Bug Farm community: individuals ar
 ### Sections
 The Open Bug Farm wiki consists of a few main parts:
 
-* [[Insect Species Guides]] - community information on raising various species
-* [[Equipment Guides]] - community information on equipment useful for farming
-* [[Insect Price Data]] - current prices for insects as reported by the community
-* [[Open Source Tools and Resources]] - a list of open source tools and resources for the insect farmer/researcher
-* [[Regulations]] - community information on worldwide regulations governing insects in food
-* [[Articles]] - Articles and documents related to edible insects
+* **[[Insect Species Guides]]** - Community information on raising various species
+* **[[Equipment Guides]]** - Community information on equipment useful for farming
+* **[[Insect Price Data]]** - Current prices for insects as reported by the community
+* **[[Open Source Tools and Resources]]** - A list of open source tools and resources for the insect farmer/researcher
+* **[[Regulations]]** - Community information on worldwide regulations governing insects in food
+* **[[Articles]]** - Articles and documents related to edible insects
 
 
 #### How can I contribute?
-Meet the community at http://www.openbugfarm.com/forum - everyone is welcome, whatever their background or level of experience.
-
+Meet the community at **http://www.openbugfarm.com/forum** and share your knowledge or questions. Everyone is welcome, whatever your background or level of experience.
