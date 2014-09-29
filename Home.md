@@ -14,6 +14,7 @@ This wiki is an online database with information on everything related to farm i
 The information is made available by the Open Bug Farm community: individuals around the world who are sharing knowledge about how to raise edible insects.
 
 
+***
 
 
 ### Sections
@@ -24,9 +25,6 @@ The Open Bug Farm wiki consists of a few main parts:
 * [[Insect Price Data]] - current prices for insects as reported by the community
 * [[Open Source Tools and Resources]] - a list of open source tools and resources for the insect farmer/researcher
 * [[Regulations]] - community information on worldwide regulations governing insects in food
-
-
-
 
 
 
