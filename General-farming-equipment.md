@@ -1,3 +1,4 @@
+[[Home]] **/** [[Equipment Guides]]
 Here you find general information about farming equipment usefull to farm any kind of insect.
 
 * [[Heating with Christmas lights]]
