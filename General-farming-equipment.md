@@ -1,5 +1,4 @@
-[[Home]]
-
+[[Home]] **/** [[Equipment Guides]]
 ***
 
 
