@@ -1,3 +1,5 @@
+[[Home]] **/** [[Equipment Guides]] **/** [[Open Bug Farm Mealworm kit]]
+
 **Make your own frame for the mealworm kit**
 
 ![](https://github.com/TinyFarms/OpenBugFarm/blob/master/Wiki%20Pictures/Complete%20frame.jpg)
