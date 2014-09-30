@@ -4,7 +4,7 @@
 
 ##### This page contains description of the physical apparatus and intended usage of the Open Bug Farm Mealworm Kit (v1.0 Beta), available for [purchase](http://www.openbugfarm.com/store/c1/Featured_Products.html) or as a DIY project. 
 
-## Description
+### Description
 
 The Mealworm Kit v1.0 Beta is a complete setup for breeding and rearing a continuous production of up to 1kg of mealworms every 26 days given optimal conditions. The kit contains the following components:
 
@@ -16,7 +16,7 @@ The Mealworm Kit v1.0 Beta is a complete setup for breeding and rearing a contin
 
 **Mealworm Farm Tent** - Optional containment sleeve fits neatly around the Mealworm Farm Frame for improved humidity and temperature control, containing dust and keeping pests and curious pets away from your worms. The tent is made of high quality and durable rip-stop nylon with DWR (Durable Water Repellent) coating. This is the same material used for a modern camping rain-fly, rain jackets and wind-breakers. The water repellent coating protects against accidental liquid spills, and helps maintain the internal humidity level within the farm system.
 
-## Usage
+### Usage
 
 ### Breed your first stock:
 The first step to starting up your farm is to breed your first harvestable generation. You will need about 200 adult beetles. You should buy a small starter stock of medium or large mealworms, they will soon be ready to pupate and turn into beetles. Buy some extra because not all pupae survive the transformation, particularly if the humidity is too low.
