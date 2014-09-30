@@ -1,4 +1,4 @@
-[[Home]]/[[Equipment Guides]]
+[[Home]]/[[Open Bug Farm Mealworm kit]]
 
 ## The Mealworm Kit
 
