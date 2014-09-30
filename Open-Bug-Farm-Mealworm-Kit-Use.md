@@ -1,4 +1,4 @@
-[[Home]]/[[Equiptment Guides]]
+[[Home]]/[[Equipment Guides]]
 
 ## The Mealworm Kit
 
