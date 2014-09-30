@@ -1,4 +1,6 @@
-# CERN Open Hardware Licence v1.2 
+[[Home]]/[[Open Bug Farm Mealworm kit]]
+
+## CERN Open Hardware Licence v1.2 
 
 
 ### Preamble
