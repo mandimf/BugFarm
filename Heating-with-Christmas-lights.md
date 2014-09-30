@@ -1,3 +1,5 @@
+[[Home]] **/** [[Equipment Guides]]
+
 ## Intro
 Community member [@gringojay](http://forum.openbugfarm.com/index.php?p=/profile/68/gringojay) suggests Christmas lights as a safe and affordable source of heating.
 
