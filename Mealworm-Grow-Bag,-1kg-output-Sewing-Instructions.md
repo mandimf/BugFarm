@@ -1,4 +1,4 @@
-[[Home]]/[[Open Bug Farm Mealworm kit]]
+[[Home]] **/** [[Equipment Guides]] **/** [[Open Bug Farm Mealworm kit]]
 
 These are illustrated instructions for sewing your own Mealworm Grow bag with the materials provided when you order an Unsewn Mealworm Grow Bag:
 
