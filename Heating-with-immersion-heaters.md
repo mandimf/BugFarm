@@ -1,3 +1,5 @@
+[[Home]] **/** [[Equipment Guides]] **/** [[General Farming Equipment]]
+
 ### Aim
 
 To create a cheap, safe and simple heat source for insect farming using readily available materials.
