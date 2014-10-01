@@ -23,3 +23,4 @@ adults
 **Light**
 
 Natural day-night ratio
+Using a light as heating source is not optimal. It was found that when using a light for heating, and therefor 24 hours light, that very few of the eggs will hatch.
