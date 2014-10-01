@@ -26,3 +26,12 @@ adults
 
 Natural day-night ratio
 Using a light as heating source is not optimal. It was found that when using a light for heating, and therefor 24 hours light, that very few of the eggs will hatch.
+
+
+**References:**
+
+* _J. R. Busvine et al., 1955. Simple methods for rearing the cricket (Gryllulus Domesticus L.) with some observations on speed of development at different temperatures._
+
+* _C. W. Clifford & J. P. Woodring, 1990. Methods for rearing the house cricket, Acheta domesticus (L.),_
+_along with baseline values for feeding rates, growth rates, development times, and blood composition_
+* _R. L. Patton, 1978. Growth and Development Parameters for Acheta domesticus_
