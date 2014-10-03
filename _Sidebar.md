@@ -8,6 +8,8 @@
     * _[[general farming equipment]]_
     * _[[Open Bug Farm Mealworm Kit]]_
 * **[[Insect Price Data]]**
+    * _[[Cricket prices]]_
+    * _[[Mealworm prices]]_
 * **[[Open Source Tools and Resources]]**
 * **[[Regulations]]**
 * **[[Articles]]**
