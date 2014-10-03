@@ -8,7 +8,7 @@
 
 ####Species:
 
-* **[[House cricket (Acheta domesticus)|Cricket Index]]**
+* **[[House cricket (Acheta domesticus)|House cricket Index]]**
 
 _Information about raising the House cricket for human consumption_
 
