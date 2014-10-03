@@ -1,7 +1,7 @@
 * **[[Home]]**
 * **[[Insect Species Guides]]**
-    * [[Mealworm (Tenebrio molitor)|Mealworm Index]]
-    * [[House cricket (Acheta domesticus)|House cricket Index]]
+    * [[Mealworm |Mealworm Index]]
+    * [[House cricket|House cricket Index]]
 * **[[Equipment Guides]]**
     * [[general farming equipment]]
     * [[Open Bug Farm Mealworm Kit]]
