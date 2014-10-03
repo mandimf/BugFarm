@@ -16,11 +16,11 @@ _Information about raising the House cricket for human consumption_
 
 _Information about raising mealworms for human consumption_
 
-* **[[Banded cricket (Gryllodes sigillatus)]]**
+* **[[Banded cricket (Gryllodes sigillatus)|Banded cricket index]]**
 
 _Information about raising the Banded cricket for human consumption_ 
 
-* **[[Black soldier fly (Hermetia illucens)]]**
+* **[[Black soldier fly (Hermetia illucens)|Black soldier fly index]]**
 
 _Information about raising the Black soldier fly for animal consumption_
 
