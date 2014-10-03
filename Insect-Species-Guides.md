@@ -16,7 +16,7 @@ _Information about raising the House cricket for human consumption_
 
 _Information about raising mealworms for human consumption_
 
-* **[[Banded cricket (Gyllodes sigillatus)]]**
+* **[[Banded cricket (Gryllodes sigillatus)]]**
 
 _Information about raising the Banded cricket for human consumption_ 
 
