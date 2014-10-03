@@ -1,16 +1,25 @@
 [[Home]]
 #### **The following pages contain community knowledge on raising various species of insect for human or animal consumption.**
 
+**_Note: red indicates the information is still missing. Do you have information that is missing or anything that should be added or edited to existing pages, and willing to share it with the network, please contact [Openbugfarm](http://www.openbugfarm.com/contact.html)._**
+
+
 ***
+
+
+* **[[House cricket (Acheta domesticus)|Cricket Index]]**
+
+_Information about raising the House cricket for human consumption_
 
 * **[[Mealworm (Tenebrio molitor)|Mealworm Index]]**
 
-_This page contains information about raising mealworms for human consumption_
+_Information about raising mealworms for human consumption_
 
-* **[[Cricket (Acheta domesticus)|Cricket Index]]**
+* **[[Banded cricket (Gyllodes sigillatus)]]**
+_Information about raising the Banded cricket for human consumption_ 
 
-_This page contains information about raising crickets for human consumption **(information is coming)**_
-
+* **[[Black soldier fly (Hermetia illucens)]]**
+_Information about raising the Black soldier fly for animal consumption_
 
 
 
