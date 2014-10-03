@@ -3,9 +3,9 @@
 
 **This is a community-edited source of information on cricket (Acheta domesticus) and how to raise them for human consumption.**
 
-* [[Basic Facts]]
-* [[Optimal Conditions]]
-* [[Farm Schedule]] - activities and conditions over one harvest cycle
-* [[Methods and Materials]]
-* [[Production Estimates]]
-* [[Pest Management]]
+* [[House cricket basic Facts]]
+* [[House cricket optimal Conditions]]
+* [[House cricket farm Schedule]] - activities and conditions over one harvest cycle
+* [[House cricket methods and Materials]]
+* [[House cricket production Estimates]]
+* [[House cricket Pest Management]]
