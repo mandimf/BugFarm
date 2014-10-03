@@ -48,3 +48,5 @@ Date (dd-mm-yyyy)|Price (USD)|Supplier|Reported By|City|Country|Notes|
 ### Crickets (flour)
 Date (dd-mm-yyyy)|Price (USD)|Supplier|Reported By|City|Country|Notes|
 -----------------|-----------|--------|-----------|----|-------|-----|
+03-10-2014|$88 (€70) 1KG|[Thailand Unique](http://www.thailandunique.com/insect-bug-flour-powder/kilogram-cricket-flour) |JBaars|Udon Thani|Thailand|Price does not include shipment
+03-10-2014|$63(€49,95) 1KG|[Insect Europe](http://www.insecteurope.com/index.php/pre-order-now)|JBaars|Lelystad|Netherlands|Only pre-order (03-10-2014)expected to ship January 2015.
