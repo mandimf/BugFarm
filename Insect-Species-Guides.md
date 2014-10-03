@@ -1,5 +1,5 @@
 [[Home]]
-#### **The following pages contain community knowledge on raising various species of insect for human or animal consumption.**
+#### The following pages contain community knowledge on raising various species of insect for human or animal consumption.
 
 **_Note: red indicates the information is still missing. Do you have information that is missing or anything that should be added or edited to existing pages, and willing to share it with the network, please contact [Openbugfarm](http://www.openbugfarm.com/contact.html)._**
 
