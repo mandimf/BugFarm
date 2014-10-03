@@ -1,5 +1,4 @@
 
-
 ***
 
 
@@ -14,7 +13,7 @@ The information is made available by the Open Bug Farm community: individuals ar
 
 
 ### Sections
-The Open Bug Farm wiki consists of a few main parts:
+The Open Bug Farm wiki consists of the following sections:
 
 * **[[Insect Species Guides]]** - Community information on raising various species
 * **[[Equipment Guides]]** - Community information on equipment useful for farming
@@ -26,3 +25,5 @@ The Open Bug Farm wiki consists of a few main parts:
 
 ### How can I contribute?
 Meet the community at **http://www.openbugfarm.com/forum** and share your knowledge or questions. Everyone is welcome, whatever your background or level of experience.
+
+
