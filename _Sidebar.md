@@ -6,6 +6,7 @@
  * _[[Silkworm]]_
  * _[[Palm weevil]]_
  * _[[Waxworm]]_
+ * _[[Cockroach]]
 * **[[Equipment Guides]]**
     * _[[general farming equipment]]_
     * _[[Open Bug Farm Mealworm Kit]]_
