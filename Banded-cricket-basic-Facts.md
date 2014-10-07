@@ -1,6 +1,11 @@
 ## **Life cycle**
 
-* **Eggs hatching:**
+* **Eggs hatching:**             
+
+
+
+
+
 
 * **Nymph period:**
 
