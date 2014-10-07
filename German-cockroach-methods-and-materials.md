@@ -1,4 +1,4 @@
-_[[Home]] **/** [[Insect Species Guides]]_ **/** _[[Cockroach]]_ **/** _[[German cockroach]]_
+_[[Home]] **/** [[Insect Species Guides]]_ **/** _[[Cockroach]]_ **/** _[[German Cockroach]]_
 
 ### Rearing container
 
