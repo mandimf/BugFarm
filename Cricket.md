@@ -1,4 +1,4 @@
-_[[home]]_
+_[[home]]_ **/** [[Insect Species Guides]]_
 
 [[House cricket index]]
 
