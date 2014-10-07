@@ -1,11 +1,34 @@
-* **Farming density**
-
-* **Temperature**
-
-* **Humidity**
+_[[Home]] **/** [[Insect Species Guides]] **/** [[Banded cricket index]]_
 
 
-* **Light**
+#### **Farming density**
+
+-
+-
+-
+
+#### **Temperature**
+
+-
+-
+-
+
+#### **Humidity**
+
+-
+-
+-
 
 
-* **References:**
+#### **Light**
+
+-
+-
+-
+
+
+#### **References:**
+
+-
+-
+-
