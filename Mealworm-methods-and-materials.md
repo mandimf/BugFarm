@@ -1,4 +1,4 @@
-[[Home]] **/** [[Insect Species Guides]] **/** [[Mealworm Index]]
+_[[Home]] **/** [[Insect Species Guides]] **/** [[Mealworm Index]] **/** [[Tenebrio Molitor]]_
 ## **Bins**
 ### Material			
 Meal worms can be raised at wood or plastic bins. Each material has its advantages and disadvantages, but it is nearly consensual that the use of plastic bins is better given their durability, light weight and impermeability. Wood bins can also be more susceptible to the proliferation of fungi and bacteria.
