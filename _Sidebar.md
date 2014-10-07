@@ -5,6 +5,7 @@
  * _[[Black soldier fly| Black soldier fly index]]_
  * _[[Silkworm]]_
  * _[[Palm weevil]]_
+ * _[[Waxworm]]_
 * **[[Equipment Guides]]**
     * _[[general farming equipment]]_
     * _[[Open Bug Farm Mealworm Kit]]_
