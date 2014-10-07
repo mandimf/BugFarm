@@ -24,7 +24,7 @@
 
 4. **[[Silkworm]]** _Information about raising the Silkworm for different purposes_
 
-5. **[[Palm weevil]]** _Information about raising Palm weevil for humand consumption.
+5. **[[Palm weevil]]** _Information about raising Palm weevil for humand consumption._
 
 
 
