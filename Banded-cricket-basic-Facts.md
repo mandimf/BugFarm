@@ -1,16 +1,27 @@
-## **Life cycle**
+### **Life cycle**
 
-* **Eggs hatching:**             
-
-
+***
 
 
 
+#### **Eggs hatching:**     
+-
+-
+-
 
-* **Nymph period:**
 
-* **Adulthood:**
+#### **Nymph period:**
+-
+-
+-
 
-**References:**
+#### **Adulthood:**
+-
+-
+-
 
+#### **References:**
+-
+-
+-
 
