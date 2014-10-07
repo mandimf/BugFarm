@@ -4,32 +4,34 @@ _[[Home]] **/** [[Insect Species Guides]] **/** [[House cricket index]]_
 
 
 
-####  Material:
+* Material:
+
 -
 -
 -
 
-#### Dimensions: 
+* Dimensions: 
+
+-
+-
+-
+* Aeration:
+
 -
 -
 -
 
-#### Aeration:
+***
+
+### **Substrate**
+
+-
+-
+-
+
+* Material:
+
 -
 -
 -
 ***
-
-## **Substrate**
--
--
--
-
-#### Material:
--
--
--
-***
-
-
-
