@@ -1,24 +1,24 @@
 _[[Home]] **/** [[Insect Species Guides]] **/** [[Banded cricket index]]_
 
-##  **Farming container**
+###  **Farming container**
  
 -
 -
 -
 
 
-####  Material:
+* Material:
 
 -
 -
 -
 
-#### Dimensions: 
+* Dimensions: 
 
 -
 -
 -
-#### Aeration:
+* Aeration:
 
 -
 -
@@ -26,13 +26,13 @@ _[[Home]] **/** [[Insect Species Guides]] **/** [[Banded cricket index]]_
 
 ***
 
-## **Substrate**
+### **Substrate**
 
 -
 -
 -
 
-#### Material:
+* Material:
 
 -
 -
