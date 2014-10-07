@@ -1,4 +1,4 @@
-[[Home]] **/** [[Insect Species Guides]] **/** [[House cricket index]]
+_[[Home]] **/** [[Insect Species Guides]] **/** [[House cricket index]]_
 
 ## **Life cycle**
 
