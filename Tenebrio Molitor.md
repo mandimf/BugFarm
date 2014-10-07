@@ -1,5 +1,6 @@
 _[[Home]] **/** [[Insect Species Guides]] **/** [[Mealworm index]]_
 
+**This is a community-edited source of information on the Tenebrio Molitor mealworm and how to raise them for human consumption.**
 ***
 
 
