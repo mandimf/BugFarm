@@ -23,7 +23,7 @@ _[[Home]] **/** [[Insect Species Guides]]_ **/** _[[Silkworm]]_
 -
 -
 
-* **Adult (Beetle)**
+* **Adult**
 
 -
 -
