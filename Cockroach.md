@@ -4,6 +4,6 @@ This is a community-edited source of information on the cockroach. This page is 
 
 ### Cockroach species:
 
-[[German Cockroach (Blattella germanica L.)|German Cockroach]]
-
 [[American Cockroach (Periplaneta americana L.)|Amercian Cockroach]]
+
+[[German Cockroach (Blattella germanica L.)|German Cockroach]]
