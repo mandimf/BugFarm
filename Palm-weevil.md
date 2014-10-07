@@ -1,3 +1,6 @@
+_[[Home]] **/** [[Insect Species Guides]]_
+
+
 **This is a community-edited source of information on the Palm weevil (Rhynchophorus ferrugineus) and how to raise them for human consumption.**
 
 * [[Palm weevil Basic Facts]]
