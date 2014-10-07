@@ -1,4 +1,4 @@
-_[[Home]] **/** [[Insect Species Guides]] **/** [[House cricket index]]_
+_[[Home]] **/** [[Insect Species Guides]] **/** [[Cricket]]_
 
 
 **This is a community-edited source of information on the House cricket (Acheta domesticus) and how to raise them for human consumption.**
