@@ -1,6 +1,6 @@
 _[[Home]] **/** [[Insect Species Guides]]_
 
-This is a community-edited source of information on the Silkworm (Bombyx mori) and how to raise them for human consumption.
+**This is a community-edited source of information on the Silkworm (Bombyx mori) and how to raise them for human consumption.**
 
 * [[Silkworm Basic Facts]]
 * [[Silkworm Optimal Conditions]]
