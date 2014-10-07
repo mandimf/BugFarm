@@ -22,7 +22,7 @@ According to Clifford (1990) the females will lay around 95 eggs per day but wil
 
 **The cycle begins again, after an incubation period of 13 days under optimal conditions.**
 
-**Reference**
+**References**
 
 * _Clifford C.W. et al., 1978. Rearing Methods for Obtaining House Crickets, Acheta domesticus,
 of Known Age, Sex, and Instar
