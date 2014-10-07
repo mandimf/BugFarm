@@ -1,4 +1,3 @@
-
 ***
 
 
@@ -24,6 +23,9 @@ The Open Bug Farm wiki consists of the following sections:
 
 
 ### How can I contribute?
-Meet the community at **http://www.openbugfarm.com/forum** and share your knowledge or questions. Everyone is welcome, whatever your background or level of experience.
+
+Read more about how to contribute your knowledge on this **[page](Contribute)**. 
+
+For questions about farming insect go to **http://www.openbugfarm.com/forum**, meet the community and share your knowledge or questions. Everyone is welcome, whatever your background or level of experience.
 
 
