@@ -1,3 +1,5 @@
+_[[Home]] **/** [[Insect Species Guides]] **/** [[House cricket index]]_
+
 **Cricket density**
  
 There is a limit to the number of crickets that can be held in a given area without incurring crowding. A higher mortality exists when the crickets have to limited amount of space. Patton (1978) concludes that each cricket should have 2,5 cm2 of crawl space to have a minimized mortality rate and a maximized use of space.
