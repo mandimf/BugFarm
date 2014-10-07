@@ -22,6 +22,7 @@
 
 3.  **[[Black soldier fly (Hermetia illucens)|Black soldier fly index]]** _Information about raising the Black soldier fly for animal consumption_
 
+4. **[[Silkworm]]** _Information about raising the Silkworm for different purposes_
 
 
 
