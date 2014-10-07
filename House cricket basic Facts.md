@@ -1,3 +1,5 @@
+[[Home]] **/** [[Insect Species Guides]] **/** [[House cricket index]]
+
 ## **Life cycle**
 
 The life cycle of the house cricket can be divided into 3 stages: egg, nymph and adults. It takes about 40 to 45 days from egg to adulthood (FAO, 2014) and the complete life cycle takes around 2 to 3 months when reared from 26 ºC to 32 ºC. At the final molt, the female house crickets weigh an average of 400 +- 14 mg and the male 368 +- 5 mg (Clifford, 1990).
