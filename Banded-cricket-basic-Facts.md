@@ -1,5 +1,4 @@
-_[[Home]] **/** [[Insect Species Guides]] **/** [[Banded cricket index]]_
-
+_[[Home]] **/** [[Insect Species Guides]] **/** [[Cricket]] **/** [[Banded cricket index]]_
 
 ### **Life cycle**
 
