@@ -8,21 +8,21 @@
 
 ####Species:
 
-* **[[House cricket (Acheta domesticus)|House cricket Index]]**
+1. **[[Cricket]]** _Information about raising the cricket for human consumption_
 
-_Information about raising the House cricket for human consumption_
+   1.1  [[House cricket (Acheta domesticus)|House cricket Index]]
 
-* **[[Mealworm (Tenebrio molitor)|Mealworm Index]]**
+   1.2  [[Banded cricket (Gryllodes sigillatus)|Banded cricket index]]
 
-_Information about raising mealworms for human consumption_
 
-* **[[Banded cricket (Gryllodes sigillatus)|Banded cricket index]]**
+2.  **[[Mealworm|Mealworm Index]]** _Information about raising mealworms for human consumption_
 
-_Information about raising the Banded cricket for human consumption_ 
 
-* **[[Black soldier fly (Hermetia illucens)|Black soldier fly index]]**
+    2.1 [[Tenebrio molitor]]
 
-_Information about raising the Black soldier fly for animal consumption_
+3.  **[[Black soldier fly (Hermetia illucens)|Black soldier fly index]]** _Information about raising the Black soldier fly for animal consumption_
+
+
 
 
 
