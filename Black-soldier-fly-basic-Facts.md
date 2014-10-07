@@ -11,7 +11,7 @@ _[[Home]] **/** [[Insect Species Guides]] **/** [[Black soldier fly index]]_
 -
 -
 
-* **Larva**
+* **Larvae**
 
 -
 -
