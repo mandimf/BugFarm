@@ -1,4 +1,4 @@
-_[[Home]]_ **/** _Insect Species Guides_
+_[[Home]]_ **/** _[[Insect Species Guides]]_
 
 **This is a community-edited source of information on the Black soldier fly (Hermetia illucens) and how to raise them for human animal.**
 
