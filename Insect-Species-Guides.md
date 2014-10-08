@@ -33,4 +33,8 @@
 
    - 7.2 [[German Cockroach (Blattella germanica L.)|German Cockroach]]
 
+**8.** **[[Snail]]** _Information about raising snails for human consumption._
+
+   - 8.1 [[Helix aspersa]] 
+
 
