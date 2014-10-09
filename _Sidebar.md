@@ -2,9 +2,9 @@
 * **[[Insect Species Guides]]**
  * _[[Cricket]]_
  * _[[Mealworm |Mealworm Index]]_
+ * _[[Palm weevil]]_
  * _[[Black soldier fly| Black soldier fly index]]_
  * _[[Silkworm]]_
- * _[[Palm weevil]]_
  * _[[Waxworm]]_
  * _[[Cockroach]]_
  * _[[Snail]]_
