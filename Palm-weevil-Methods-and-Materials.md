@@ -49,6 +49,10 @@ Cabbage palm or sago palm trunks or stems are cut into 50 cm lengths, then ten h
 
 **Container**
 
+![](https://github.com/TinyFarms/OpenBugFarm/blob/dd7fbb8dba7fd6af95baaf1751f01ecbc6dace4c/Wiki%20Pictures/red_palm_weevil_container_production.jpg)
+
+_**Left:** Palm material being ground up to make weevil mash. **Center:** Palm mash being soaked in water for 3 days prior to being inoculated with adult weevils that lay eggs in the mash. **Right:** Palm weevil larvae growing in mash. The palm bark slices have been lifted up to expose the larvae._ (M. Hoddle, 2013)
+
 Palm material, either mechanically shredded central portions of sago palm trunks (the outer bark is sliced off and used to cover the palm mash in basins or the shredded rachis of coconut palm fronds (the leaflets are sliced off with a machete and removed, as is much of the outer green epidermis covering the rachis).
 
 Coarse chips of palm material and slices of palm trunk bark are soaked liberally in water in basins. After 3 days, water is drained, the mash is hand squeezed to remove excess water and approximately 500 g of pelleted pig food (made of rice husks, corn, soy bean, sunflower seeds, and peanuts) is added to the palm mash and stirred in.
@@ -60,7 +64,11 @@ Coarse chips of palm material and slices of palm trunk bark are soaked liberally
 
 Based upon research of M. Hoddle:
 
-**Container rearing**
+* **Container rearing**
+
+![](https://github.com/TinyFarms/OpenBugFarm/blob/dd7fbb8dba7fd6af95baaf1751f01ecbc6dace4c/Wiki%20Pictures/low_cost_rearing_red_palm_weevils.jpg)
+
+_**Left:** Red palm weevil rearing shed in Thailand, only 1/3 of this shed was used for rearing larvae. **Center:** Shelves with weevil larvae rearing containers in the mass production shed. **Right:** The harvest from the rearing containers, approximately 2 kg of weevil larvae_ (M. Hoddle, 2013)
 
 A rearing shed is probably not needed as long as containers are protected from rain to stop them accumulating excessive water from rain events. A tarpaulin tied between trees may be sufficient to provide shelter from excessive rain and sun events and will still allow adequate air flow over containers. The mash in which larvae are grown is highly saturated and modest rain accumulation would likely be tolerable.
 
@@ -70,7 +78,11 @@ Adults are then combined to make groups of 5 pairs and used to inoculate new con
 
 Once adults are added to containers, the mash is covered with the slices of water-soaked palm trunk bark that was removed prior to grinding the heart of the sago palm trunk. These bark slices provide protective cover for adult weevils so they don’t fly away and later they provide the substrate and long palm fibers needed for cocoon spinning by mature larvae.
 
-**Palm trunk rearing**
+* **Palm trunk rearing**
+
+![](https://github.com/TinyFarms/OpenBugFarm/blob/dd7fbb8dba7fd6af95baaf1751f01ecbc6dace4c/Wiki%20Pictures/red_palm_weevil_rearing_palms.jpg)
+
+_**Left:** Cut palm logs to be used for rearing palm weevils. **Right:** Palm logs inoculated with palm weevils in Thailand._(M. Hoddle, 2013)
 
 Individual rounds were placed under crudely built shade structures and on top of each round fermenting palm mash was placed to a depth of about 2-3 cm. Adult palm weevils were placed on the mash and then covered with flaps of palm bark that was pushed firmly into the mash thereby providing a protected space for the adults live, feed, and lay eggs. No preparation of palm trunks other than the application of palm mash and bark pieces is needed for this rearing set up. After approximately 3 months the first crop of weevils is ready to be harvested, and each palm round can produce larvae for up to 6 months for a total production of about 3 kg of larvae. 
 
