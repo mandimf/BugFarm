@@ -1,6 +1,6 @@
 _[[Home]] **/** [[Insect Species Guides]]_ **/** _[[Palm weevil]]_
 
-**Most of the information on this pages is based on the field research from M. Hoddle (University California Riverside) described in the article Entomophagy: Farming Palm Weevils for Food. The article can be found here: http://cisr.ucr.edu/blog/.**
+**Most of the information on this pages is based on the field research in Thailand from M. Hoddle (University California Riverside) described in the article Entomophagy: Farming Palm Weevils for Food. The article can be found here: http://cisr.ucr.edu/blog/.**
 
 ### Rearing container
 
