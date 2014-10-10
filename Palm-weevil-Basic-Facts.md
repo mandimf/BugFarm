@@ -1,6 +1,6 @@
 _[[Home]] **/** [[Insect Species Guides]]_ **/** _[[Palm weevil]]_
 
-**Most of the information on this pages is based on the information from M. Hoddle (University California Riverside)in the article _Entomophagy: Farming Palm Weevils for Food_. The article can be found here: http://cisr.ucr.edu/blog/.**
+**Most of the information on this pages is based on the information from M. Hoddle (University California Riverside)in the article _Entomophagy: Farming Palm Weevils for Food_. The article can be found here: http://cisr.ucr.edu/blog/red-palm-weevil/entomophagy-farming-palm-weevils-food/ .**
 
 ## **Life cycle**
 
@@ -45,4 +45,4 @@ _Adult palm weevil. Source: Luigi Barraco_
 
 * **References**
 
- - _M. Hoddle, 2013. Entomophagy: Farming Palm Weevils for Food_
+ - _M. Hoddle, 2013. Entomophagy: Farming Palm Weevils for Food. (online) Available at: http://cisr.ucr.edu/blog/red-palm-weevil/entomophagy-farming-palm-weevils-food/_
