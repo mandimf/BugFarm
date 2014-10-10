@@ -34,6 +34,26 @@ Cabbage palm or sago palm trunks or stems are cut into 50 cm lengths, then ten h
 -
 
 ***
+### **Diet**
+
+**Artifical diet**
+
+_Reported by [gringojay](http://forum.openbugfarm.com/index.php?p=/profile/68/gringojay), extracted from Poorjavad et. al, 2009_
+
+Ingredients|
+-----------|
+500 milliliter (1/2 quart) water|
+1.000 gr. potato|
+250 gr. carrots|
+250 gr. flour|
+20 gr. glucose|
+15 gr. agar|
+4 gr. casein|
+
+Although resulting insect weights was less than those collected from the wild. 
+Males life cycle was ~55-65 days & female was ~70-102 days; females laid most eggs when ~12-21 days old & laid ~71-103 eggs total, with ~66-86% hatching.
+
+***
 
 ### **Substrate**
 
@@ -86,3 +106,4 @@ Individual rounds were placed under crudely built shade structures and on top of
 
 * _FAO, 2013. Six-legged livestock: edible insect farming, collection and marketing in Thailand._
 * _M. Hoddle, 2013. Entomophagy: Farming Palm Weevils for Food. (online) Available at: http://cisr.ucr.edu/blog/red-palm-weevil/entomophagy-farming-palm-weevils-food/_
+* _N. Poorjavad et. al, 2009. Laboratory rearing and some biological characters of the red palm weevil, Rhynchophorus ferrugineus (Col., Dryophthoridae) on semi-artificial diet._
