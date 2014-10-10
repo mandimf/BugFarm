@@ -35,7 +35,7 @@ Maximum:
 
 * _W. Kaakeh et. al, n.d. Mass Rearing of the Red Palm Weevil, Rhynchophorus Ferrugineus Oliv., on Sugercane and Articial Diets for Laboratory Studies:Illustration of Methodology._
 
-* _M.Hoddle, 2013. Entomophagy: Farming Palm Weevils for Food._
+* _M.Hoddle, 2013. Entomophagy: Farming Palm Weevils for Food. (online) Available at: http://cisr.ucr.edu/blog/red-palm-weevil/entomophagy-farming-palm-weevils-food/_
 
 -
 -
