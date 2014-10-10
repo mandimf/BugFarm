@@ -32,3 +32,9 @@ net profit per harvesting cycle (35 to 45 days) can be around THB143 000-164 000
 Palm trunks tent to have a higher profitability of production  because no extra feed costs are included with the trunks whereas in basin production feed inputs (pig feed) are required. 
 
 In addition to producing food, palm weevil farming has several very useful by-products that can be sold. First, the mash used to rear weevils can be sold as compost to amend soils. Second, the spent mash if set up in special storage areas can be left to drain and this “water” can be collected and sold as fertilizer, similar to worm water fertilizer that is collected from worm composting facilities. Third, in the case of using palm logs for rearing, the hollowed out palm trunks can be cleaned up and sold as containers for growing plants.
+
+#### **Reference:**
+
+* _FAO, 2013. Six-legged livestock: edible insect farming, collection and marketing in Thailand._
+
+* _M. Hoddle, 2013. Entomophagy: Farming Palm Weevils for Food. (online) Available at: http://cisr.ucr.edu/blog/red-palm-weevil/entomophagy-farming-palm-weevils-food/_
