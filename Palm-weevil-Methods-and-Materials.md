@@ -1,6 +1,6 @@
 _[[Home]] **/** [[Insect Species Guides]]_ **/** _[[Palm weevil]]_
 
-**Most of the information on this pages is based on the field research in Thailand from M. Hoddle (University California Riverside) described in the article Entomophagy: Farming Palm Weevils for Food. The article can be found here: http://cisr.ucr.edu/blog/.**
+**Most of the information on this pages is based on the field research in Thailand from M. Hoddle (University California Riverside) described in the article Entomophagy: Farming Palm Weevils for Food. The article can be found here: http://cisr.ucr.edu/blog/red-palm-weevil/entomophagy-farming-palm-weevils-food/.**
 
 ### Rearing container
 
@@ -14,16 +14,6 @@ Palm Weevils can be readily grown from eggs to adults in large round plastic con
 * **Palm trunks:**
 
 The tradional method is farming directly in palm trunks or stems. M. Hoddle reports: "_one weevil farming operation in Nakhom Si Thammarat Province used rounds of fan palm trunks (Corypha umbraculifera) approximately 0.33-0.5 m tall for rearing. This farmer preferred the flavor and texture of weevil larvae and pupae produced from fan palm trunks and weevil development is slower and palm trunk longevity is greater when compared to a similar set up with sago palm trunk sections._"
-
-
-After 40 to 45 
-days palm weevil larvae can be 
-harvested. The total yield is around 2 
-kilograms of fully grown palm weevil 
-larvae per cabbage palm or sago palm 
-trunk. The same palm trunk can be 
-used to breed the palm weevil larvae 
-
 
 
 
@@ -95,4 +85,4 @@ Individual rounds were placed under crudely built shade structures and on top of
 
 
 * _FAO, 2013. Six-legged livestock: edible insect farming, collection and marketing in Thailand._
-* _M. Hoddle, 2013. Entomophagy: Farming Palm Weevils for Food._
+* _M. Hoddle, 2013. Entomophagy: Farming Palm Weevils for Food. (online) Available at: http://cisr.ucr.edu/blog/red-palm-weevil/entomophagy-farming-palm-weevils-food/_
