@@ -9,7 +9,7 @@ _The data used for this page is all based upon case studies in Thailand._
 
 ####**Container rearing**
 
-_**The following information is based on the field research in Thailand from M. Hoddle (University California Riverside) described in the article Entomophagy: Farming Palm Weevils for Food. The article can be found here: http://cisr.ucr.edu/blog/.**_
+_**The following information is based on the field research in Thailand from M. Hoddle (University California Riverside) described in the article Entomophagy: Farming Palm Weevils for Food. The article can be found here: http://cisr.ucr.edu/blog/red-palm-weevil/entomophagy-farming-palm-weevils-food/**_
 
 After approximately four weeks (harvest may begin as early as 17-20 days post inoculation with adults) larvae are ready to be harvested and each ~30 liter container can yield up to 2 kg of larvae (1 kg = approximately 150 large weevil larvae)
 
