@@ -17,13 +17,14 @@ http://www.fda.gov/Food/IngredientsPackagingLabeling/GRAS/
 
 The following report derived from the EU funded project Proteinsect. For more information go to http://www.proteinsect.eu/ 
 
-_Report with regard to current Legislation & Regulation: Europe and Africa & China (Smith & Pryor, 2013)_
+* **Full report:**
 
-http://www.proteinsect.eu/fileadmin/user_upload/deliverables/D5.1t-FINAL.pdf 
 
-_Executive Summary Report with regard to current Legislation & Regulation: Europe and Africa & China (Smith & Pryor, 2013)_
+[Full Report with regard to current Legislation & Regulation: Europe and Africa & China (Smith & Pryor, 2013)](https://github.com/TinyFarms/OpenBugFarm/blob/master/Wiki%20Documents/Current%20Legislation%20%26%20Regulation%20in%20Europe%20and%20Africa%20%26%20China.%20full%20report.%20(Proteinsect%2C%202013).pdf)
 
-http://www.proteinsect.eu/fileadmin/user_upload/deliverables/1D5_1-Exec-Summ.pdf
+* **Summary report:**
+
+[Executive Summary Report with regard to current Legislation & Regulation: Europe and Africa & China (Smith & Pryor, 2013)](https://github.com/TinyFarms/OpenBugFarm/blob/master/Wiki%20Documents/Current%20Legislation%20%26%20Regulation%20in%20Europe%20and%20Africa%20%26%20China.%20Executive%20Summary.%20(Proteinsect%2C%202013).pdf)
 
 
 
