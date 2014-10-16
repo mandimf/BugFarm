@@ -31,3 +31,13 @@ Within the protection of its cocoon, a silkworm changes into a pupa. It sheds it
 * **Adult**
 
 After about three weeks inside its cocoon (Johnson, 1982) the pupa will have become an adult moth. The moth has to work hard to get out of the pupa shell as it, like other adult moths and butterflies, has no teeth to bite its way through the cocoon. The moth uses a special liquid that softens and dissolves the silk so that the moth can push its way through the cocoon. Silkworm moths mate immediately after emergence and begin to lay eggs almost at once. Females lay eggs on everything that has a rough surface (e.g. filter paper). The adult lives up to 25 days and requires no food or water (Barufaldi, 1974).
+
+**References**
+
+_Johnson S.A., 1982. Silkworms._
+
+_Barufaldi J.P., 1974. Rearing Silkworms in the Classroom_
+
+_Nayar J.K., 1963. Practical Methods of Year-Round Laboratory Rearing of the Silkworm, Bombyx mori_
+
+ 
