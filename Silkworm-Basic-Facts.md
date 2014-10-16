@@ -34,10 +34,10 @@ After about three weeks inside its cocoon (Johnson, 1982) the pupa will have bec
 
 **References**
 
-_Johnson S.A., 1982. Silkworms._
+* _Johnson S.A., 1982. Silkworms._
 
-_Barufaldi J.P., 1974. Rearing Silkworms in the Classroom_
+* _Barufaldi J.P., 1974. Rearing Silkworms in the Classroom_
 
-_Nayar J.K., 1963. Practical Methods of Year-Round Laboratory Rearing of the Silkworm, Bombyx mori_
+* _Nayar J.K., 1963. Practical Methods of Year-Round Laboratory Rearing of the Silkworm, Bombyx mori_
 
  
