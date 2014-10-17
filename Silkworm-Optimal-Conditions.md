@@ -43,7 +43,7 @@ Incubation|1. instar|2. instar|3. instar|4. instar|5. instar|Spinning|Cocon pres
 
 Silkworms are photosensitive and they have a tendency to crawl towards dim light. They do not like either strong light or complete darkness. Rearing of silkworms in continuous light delays the growth. Rajan et.al. reports that  silkworms require a minimum period of 16 hrs. light per day. ln case of silkworms reared in such conditions the weight of cocoons and cocoon shell become heavier than that of the larvae reared in dark condition.
 
-Rahmathulla reports that Late-age worms survive better in 16-hour light and 8-hour dark periods. However, young-age worm prefers 16 hr darkness and 8 hr light period.
+Rahmathulla (2012) reports that late-age worms survive better in 16-hour light and 8-hour dark periods. However, young-age worm prefers 16 hr darkness and 8 hr light period.
 
 
 
