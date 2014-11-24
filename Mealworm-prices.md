@@ -19,7 +19,7 @@ Date (dd-mm-yyyy)|Price (USD)|Price 100g/USD (EUR)|Supplier|Reported By|City|Cou
 07-07-2014|AUD 12.50 for 100g|$10.90 (€8.70)|Bugs'N'Things (brand) at Pet Magic|calytrix-wa|Perth|Australia
 07-07-2014|AUD 21.00 for 2$g|/|Bugs'N'Things (brand) at Pet Magic|calytrix-wa|Perth|Australia
 15-09-2014|EUR 3 for 100 grams|$2.40 (€3)|feeders.gr| Greece
-22-11-2014|$3.99 for 100 count|/|Vita-bugs|Jo|Petco State College, PA, USA
+22-11-2014|$3.99 for 100 count|/|Vita-bugs|Jo|Petco State College, PA| USA
 
 ***
 
