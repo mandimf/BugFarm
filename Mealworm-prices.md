@@ -40,6 +40,6 @@ Date (dd-mm-yyyy)|Price (USD)|Price 100g/USD (EUR)|Supplier|Reported By|City|Cou
 ### Mealworms (flour)
 Date (dd-mm-yyyy)|Price (USD)|Price 100g/USD (EUR)|Supplier|Reported By|City|Country|Notes|
 -----------------|-----------|--------------------|--------|-----------|----|-------|-----|
-03-10-2014|$18 (€14.40) 113G|$15,97(€12,74)|[Next Millennium Farms] (http://store.nextmillenniumfarms.com/product-p/mog.htm)|Jbaars|Canada|Organic
+03-10-2014|$18 (€14.40) 113G|$15,97(€12,74)|[Next Millennium Farms] (http://store.nextmillenniumfarms.com/product-p/mog.htm)|Jbaars||Canada|Organic
 
 ***
