@@ -27,3 +27,4 @@ Date (dd-mm-yyyy)|Price (USD)|Price 100g/USD (Eur)|Supplier|Reported By|City|Cou
 03-10-2014|$88 (€70) 1KG|$8.77 (€7)|[Thailand Unique](http://www.thailandunique.com/insect-bug-flour-powder/kilogram-cricket-flour) |JBaars|Udon Thani|Thailand|Price does not include shipment
 03-10-2014|$63(€49.95) 1KG|$6.27 (€5)|[Insect Europe](http://www.insecteurope.com/index.php/pre-order-now)|JBaars|Lelystad|Netherlands|Only pre-order (03-10-2014)expected to ship January 2015.
 03-10-2014|$18 (€14.40) 113G|$15,97 (€12,75)|[Next Millenium Farms](http://store.nextmillenniumfarms.com/product-p/cog.htm)|JBaars|Canada|Organic
+10-12-2014|$32 (26.40€) 1KG|EIF Thailand (http://www.eif-th.com/eif-eco-insect-farming-accueil.php?lang=en#eif-eco-insect-farming-produits.php?lan)|Nico|Chiang Mai|Thailand|Shipment not included|
