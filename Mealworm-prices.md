@@ -13,7 +13,7 @@ Date (dd-mm-yyyy)|Price (USD)|Price 100g/USD (EUR)|Supplier|Reported By|City|Cou
 07-02-2014|€6 for 100 grams|$1.77 (€1.41)|[Ornimundo](http://www.ornimundo.com/)|Allan|Porto|Portugal
 08-02-2014|$6.99 for 1000(large)|/|[Rainbow Mealworms](http://www.rainbowmealworms.com)|Andrew|Compton, California|USA
 08-02-2014|$9.50 for 1000(large)|/|[Fluker Farms](http://www.flukerfarms.com)|Andrew|unknown, Louisiana|USA
-08-02-2014|$22.50 for 1000(large)|/|[Speedy Worms](http://www.http://shop.speedyworm.com/)|Andrew|Alexandria, Minnesota|USA|free shipping
+08-02-2014|$22.50 for 1000(large)|/|[Speedy Worms](http://shop.speedyworm.com/)|Andrew|Alexandria, Minnesota|USA|free shipping
 09-02-2014|€1.41 for 100 grams|$1.77(€1.41)|[kreca](http://www.kreca.eu/)|Allan|Ermelo|The Netherlands|The price does not include shipping
 09-02-2014|$27.99 for 1000|/|[Tasty Worms Nutrition](http://tastyworms.com/insects/live-insects/live-feeder-insects-en/)|Andrew|Lake Mary, Florida|USA|includes "free" next day air shipping
 07-07-2014|AUD 12.50 for 100g|$10.90 (€8.70)|Bugs'N'Things (brand) at Pet Magic|calytrix-wa|Perth|Australia
