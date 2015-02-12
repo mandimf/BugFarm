@@ -14,6 +14,3 @@ _This page contains information on general farming equipment usefull for any kin
 _This page shows how to use the Open Bug Farm Mealworm Kit 1.0 Beta and how to build your own one._
 
 
-* **[[Open Bug Farm Mealworm Kit 2.0]]**
-
-_This page contains parts and assembly information for the larger Mealworm Kit 2.0_
