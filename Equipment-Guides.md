@@ -9,6 +9,6 @@
 _This page contains information on general farming equipment usefull for any kind of insect breeding._
 
 
-* **[[Open Bug Farm Mealworm Kit 1.0]]**
+* **[[Open Bug Farm Mealworm Kit]]**
 
-_This page shows how to use the Open Bug Farm Mealworm Kit and how to build your own one._
+_This page shows how to use the Open Bug Farm Mealworm Kit 1.0 Beta and how to build your own one._
