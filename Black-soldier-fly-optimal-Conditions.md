@@ -20,8 +20,7 @@ Black soldier fly larvae develop most rapidly at 70 percent humidity. The rate o
 
 #### Light
 
-SFL do not survive well in direct light or in extreme dry or wet conditions. They prefer to be 8
-- 9 inches deep in their food source. If they are too far below the surface, they will perform little bioconversion. Female flies avoid any sites that are anaerobic when trying to lay eggs. (UNC, 2013)
+SFL do not survive well in direct light or in extreme dry or wet conditions. They prefer to be 8 - 9 inches deep in their food source. If they are too far below the surface, they will perform little bioconversion.  Female flies avoid any sites that are anaerobic when trying to lay eggs. (UNC, 2013)
 
 
 
