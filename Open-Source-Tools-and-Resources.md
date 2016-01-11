@@ -7,7 +7,7 @@
 
 ### Public Lab - Open Source Science
 
-Public Lab from their website ([www.publiclab.org](www.publiclab.org)) is:
+Public Lab from their website ([www.publiclab.org](https://www.publiclab.org)) is:
 
 >a community -- supported by a 501(c)3 non-profit -- which develops and applies open-source tools to 
 >environmental exploration and investigation. By democratizing inexpensive and accessible Do-It-Yourself
