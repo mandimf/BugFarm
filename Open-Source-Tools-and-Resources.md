@@ -18,7 +18,7 @@ And they have a few projects with potential for application to our efforts advan
 
 ### Public Lab Tools
 
-[http://publiclab.org/tools](www.publiclab.org/tools)
+[http://publiclab.org/tools](http://publiclab.org/tools)
 
 Of particular interest:
 [Spectrometer](http://publiclab.org/wiki/spectrometer) - identify chemicals
@@ -40,4 +40,4 @@ This open project, available on Instructables here [http://www.instructables.com
 
 ### APDuino
 
-[http://apduino.org/](http://apduino.org/) - An open source platform built to manage controlled environment agriculture like hydroponics and acquaponics using inexpensive Arduino micro-controllers and sensors. The project provides a web-based platform to manage sensor-actuator logic so no real programming experience is necessary! This could be particularly useful for larger scale operations that require more active environmental management and have enough at stake to warrant real-time remote alerts when something's broken or out of balance.
+[http://apduino.com/](http://apduino.com/) - An open source platform built to manage controlled environment agriculture like hydroponics and acquaponics using inexpensive Arduino micro-controllers and sensors. The project provides a web-based platform to manage sensor-actuator logic so no real programming experience is necessary! This could be particularly useful for larger scale operations that require more active environmental management and have enough at stake to warrant real-time remote alerts when something's broken or out of balance.
