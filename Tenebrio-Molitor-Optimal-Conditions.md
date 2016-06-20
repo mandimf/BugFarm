@@ -3,7 +3,7 @@ _[[Home]] **/** [[Insect Species Guides]] **/** [[Mealworm Index]] **/** [[Teneb
 ## **Mealworm density**
 
 ### Larvae
-From X to Y individuals per cm2
+From X to 10 individuals per cm2
 ### Pupae
 From X to Y individuals per cm2
 ### Beetle
